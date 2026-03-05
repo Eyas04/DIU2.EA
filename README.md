@@ -64,7 +64,11 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+En nuestro proyecto realizaremos un estudio sobre la página web de “La Qarmita Libros, Café & Eventos”, una cafetería-librería cultural situada en Granada que combina servicio de café, venta de libros y organización de eventos como exposiciones, presentaciones o talleres. En nuestro caso estamos familiarizados con este tipo de lugares, ya que solemos visitar cafeterías y librerías similares.
+
+El objetivo principal del estudio es analizar la facilidad de uso de la página web y comprobar si los usuarios pueden encontrar la información principal de forma rápida y clara. También se buscará identificar posibles problemas de navegación, como dificultades para localizar horarios, la ubicación del local o la información sobre eventos.
+
+Para ello se realizarán pruebas con usuarios en las que deberán completar tareas como encontrar horarios o eventos. Además, se recogerán sus opiniones mediante encuestas breves y se realizará una revisión de usabilidad de la página.
 
 
 ### 1.b Competitive Analysis
