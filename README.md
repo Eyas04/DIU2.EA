@@ -70,7 +70,7 @@ El objetivo principal del estudio es analizar la facilidad de uso de la página 
 
 Para ello se realizarán pruebas con usuarios en las que deberán completar tareas como encontrar horarios o eventos. Además, se recogerán sus opiniones mediante encuestas breves y se realizará una revisión de usabilidad de la página.
 
-Enlace al pdf: [User Research Plan](P1/User research plan.pdf)
+Enlace al pdf: [User Research Plan](P1/User_research_plan.pdf)
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
