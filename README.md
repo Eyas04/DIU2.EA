@@ -83,7 +83,9 @@ Enlace al pdf: [User Research Plan](P1/User_research_plan.pdf)
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Para esta práctica hemos elegido dos perfiles de personas diferentes y con intereses distintos. Por un lado, Laura es una estudiante universitaria que busca cafeterías tranquilas donde poder leer, estudiar y disfrutar de un café en un ambiente relajado. Por otro lado, Javier es un diseñador gráfico interesado en espacios culturales donde pueda trabajar ocasionalmente, descubrir libros y asistir a eventos como presentaciones o exposiciones.
+
+
 
 
 ### 1.d User Journey Map
