@@ -96,6 +96,9 @@ Para esta práctica hemos elegido dos perfiles de personas diferentes y con inte
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
+La experiencia de Javier refleja algo bastante habitual cuando alguien busca un sitio con ambiente cultural. Muchas personas descubren este tipo de lugares buscando en internet cafeterías diferentes o espacios donde haya actividades culturales. Al encontrar la web, lo normal es revisarla para ver el horario, la ubicación o si hay eventos.
+
+En este caso, Javier se interesa por el concepto del lugar, pero tiene algunas dudas al no encontrar fácilmente información clara sobre los eventos. El journey muestra este proceso y permite identificar puntos donde la información podría presentarse de forma más clara para mejorar la experiencia del usuario.
 
 ![User journey 1](P1/User_journey1.png)
 
