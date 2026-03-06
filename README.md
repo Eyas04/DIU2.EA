@@ -102,6 +102,11 @@ En este caso, Javier se interesa por el concepto del lugar, pero tiene algunas d
 
 ![User journey 1](P1/User_journey1.png)
 
+
+
+
+![User journey 1](P1/User_journey_2.png)
+
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
