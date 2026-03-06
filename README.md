@@ -97,6 +97,8 @@ Para esta práctica hemos elegido dos perfiles de personas diferentes y con inte
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
+![User journey 1](P1/User_journey1.png)
+
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
