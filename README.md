@@ -103,6 +103,9 @@ En este caso, Javier se interesa por el concepto del lugar, pero tiene algunas d
 ![User journey 1](P1/User_journey1.png)
 
 
+La experiencia de Laura representa una situación bastante habitual cuando alguien busca un sitio tranquilo para estudiar o leer fuera de casa. Muchas personas recurren a internet para encontrar cafeterías donde poder concentrarse durante un rato. Al encontrar la web del local, lo primero que suelen hacer es mirar el horario, la ubicación o intentar hacerse una idea del ambiente del sitio.
+
+En el caso de Laura, el lugar le resulta interesante, pero tiene algunas dudas porque no encuentra fácilmente información o fotos que le ayuden a saber si el ambiente es adecuado para estudiar. El journey refleja este proceso y permite ver algunos puntos donde la información podría mostrarse de forma más clara para facilitar la decisión del usuario.
 
 
 ![User journey 1](P1/User_journey_2.png)
