@@ -113,10 +113,9 @@ En el caso de Laura, el lugar le resulta interesante, pero tiene algunas dudas p
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento:  [Usability-Review](P1/Usability-Review-LaQarmita.pdf)
+- Valoración numérica obtenida: 49-Poor
+- Comentario: A pesar de que el tono de voz es excelente y los textos son cercanos, la incapacidad de la estructura para guiar a los usuarios hacia tareas básicas (como consultar horarios o agenda futura) y la saturación visual de la interfaz degradan la experiencia hasta un nivel Poor (Deficiente), ya que los usuarios no logran completar sus objetivos principales con éxito.
 
 <br>
 
