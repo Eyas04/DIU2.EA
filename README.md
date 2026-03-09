@@ -112,7 +112,7 @@ En el caso de Laura, el lugar le resulta interesante, pero tiene algunas dudas p
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
+Proceso de evaluación de la página web La Qarmita, donde comprobamos diferentes puntos y si debería de mejorarlos. En dicho estudio evaluamos diferentes apartados, como lo son la funcionalidad, la navegación la búsqueda o el rendimiento de la página
 - Enlace al documento:  [Usability-Review](P1/Usability-Review-LaQarmita.pdf)
 - Valoración numérica obtenida: 49-Poor
 - Comentario: A pesar de que el tono de voz es excelente y los textos son cercanos, la incapacidad de la estructura para guiar a los usuarios hacia tareas básicas (como consultar horarios o agenda futura) y la saturación visual de la interfaz degradan la experiencia hasta un nivel Poor (Deficiente), ya que los usuarios no logran completar sus objetivos principales con éxito.
