@@ -76,7 +76,7 @@ Enlace al pdf: [User Research Plan](P1/User_research_plan.pdf)
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+[Ver Competitor Analysis](P1/Competitor_Analysis.pdf)
 
 
 ### 1.c Personas
