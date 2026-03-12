@@ -75,8 +75,20 @@ Enlace al pdf: [User Research Plan](P1/User_research_plan.pdf)
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+Para realizar este análisis, hemos seleccionado dos plataformas competidoras que nos permiten contrastar la evolución del negocio y su posicionamiento en el mercado local de Granada. El objetivo es identificar las carencias de nuestra opción principal (La Qarmita - Blog) frente a soluciones más modernas o populares.
 
+Los competidores seleccionados son: 
+1. La Qarmita (Web Actual): Seleccionada para evaluar la evolución de la marca. Aunque mejora el diseño visual, es necesario comprobar si han mejorado también otros aspectos.
+2. Epicureum : Tras investigar en comunidades como Reddit, hemos identificado este local como uno de los sitios más recomendados en Granada para leer y estudiar en calma. A pesar de no ser una "librería-café" estrictamente, es su competencia directa por el tipo de usuario y la experiencia que ofrece. Lo elegimos por poseer una web moderna frente a otros negocios similares en la ciudad que carecen de presencia online.
 [Ver Competitor Analysis](P1/Competitor_Analysis.pdf)
+
+<kbd> Para la comparativa, hemos utilizado esta escala:
+⭐ Pobre: No cumple con los estándares mínimos.
+⭐⭐ Básico: Cumple la función pero con deficiencias claras.
+⭐⭐⭐ Bueno: Experiencia de usuario satisfactoria.
+⭐⭐⭐⭐ Excelente: Referente en su categoría. </kbd>
+
+Tras el análisis, observamos que mientras Epicureum destaca en diseño visual y 'responsiveness' (adaptación móvil), La Qarmita (en ambas versiones) flaquea en la jerarquía de contenidos y accesibilidad técnica. Esto nos indica que nuestra propuesta de rediseño debe enfocarse en profesionalizar la estructura de la información y facilitar la navegación para usuarios que buscan un espacio tranquilo y bien organizado.
 
 
 ### 1.c Personas
