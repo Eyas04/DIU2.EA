@@ -82,11 +82,11 @@ Los competidores seleccionados son:
 2. Epicureum : Tras investigar en comunidades como Reddit, hemos identificado este local como uno de los sitios más recomendados en Granada para leer y estudiar en calma. A pesar de no ser una "librería-café" estrictamente, es su competencia directa por el tipo de usuario y la experiencia que ofrece. Lo elegimos por poseer una web moderna frente a otros negocios similares en la ciudad que carecen de presencia online.
 [Ver Competitor Analysis](P1/Competitor_Analysis.pdf)
 
-<kbd> Para la comparativa, hemos utilizado esta escala:
+<sup> Para la comparativa, hemos utilizado esta escala:
 ⭐ Pobre: No cumple con los estándares mínimos.
 ⭐⭐ Básico: Cumple la función pero con deficiencias claras.
 ⭐⭐⭐ Bueno: Experiencia de usuario satisfactoria.
-⭐⭐⭐⭐ Excelente: Referente en su categoría. </kbd>
+⭐⭐⭐⭐ Excelente: Referente en su categoría. </sup>
 
 Tras el análisis, observamos que mientras Epicureum destaca en diseño visual y 'responsiveness' (adaptación móvil), La Qarmita (en ambas versiones) flaquea en la jerarquía de contenidos y accesibilidad técnica. Esto nos indica que nuestra propuesta de rediseño debe enfocarse en profesionalizar la estructura de la información y facilitar la navegación para usuarios que buscan un espacio tranquilo y bien organizado.
 
