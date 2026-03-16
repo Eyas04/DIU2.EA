@@ -140,8 +140,7 @@ Proceso de evaluación de la página web La Qarmita, donde comprobamos diferente
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Hemos realizado el Mapa de Empatía centrándonos en el usuario interesado en el concepto de Café-Librería. De este modo, entendemos que su frustración no es solo con una interfaz, sino con la falta de conexión entre la magia del local físico y la frialdad de su plataforma actual. Nuestra propuesta de 'Sabores con Encanto' busca cerrar esa brecha emocional
 
 
  Interesante | Críticas     
