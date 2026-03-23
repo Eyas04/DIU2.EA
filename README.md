@@ -25,7 +25,7 @@ Actualizado: 14/01/2026
 
 Grupo: DIU2_EA.  Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: La Estantería de Sabores
 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
