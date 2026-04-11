@@ -185,7 +185,7 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 | Consultar el archivo | L | H | L |
 
 
- Aquí mostramos el flujo de las tareas que hemos considerado las mas relevantes:
+ Aquí mostramos el flujo de las tareas (task flows) que hemos considerado las mas relevantes:
 
 
 ### 2.c IA: Sitemap + Labelling 
