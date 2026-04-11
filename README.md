@@ -183,7 +183,9 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 | Compartir evento en RRSS | L | H | M |
 | Gestionar/subir eventos | - | - | H |
 | Consultar el archivo | L | H | L |
+ >>> Prioridades para Laura: Dado que busca un "refugio" para concentrarse, las tareas de horario y estado de calma son críticas (H) para evitar la frustración de llegar y no encontrar el ambiente adecuado.
 
+>>> Prioridades para Javier: Como usuario interesado en la identidad visual y la cultura, su foco principal es la Agenda Cultural y el Archivo histórico (H), buscando una conexión emocional con la marca.
 
  Aquí mostramos el flujo de las tareas (task flows) que hemos considerado las mas relevantes:
 
