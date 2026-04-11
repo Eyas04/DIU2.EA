@@ -172,8 +172,20 @@ Esta digitalización se basa en:
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, dando las prioridades de alta(H), media(M) y baja(L):
+| User Groups | Laura | Javier | Dueño del local |
+| :--- | :---: | :---: | :---: |
+| Consultar horario/localización | H | M | H |
+| Ver estado de calma (WiFi/Ruido) | H | M | M |
+| Explorar carta de "Sabores"(fotos) | H | H | M |
+| Ver agenda cultural (calendario) | M | H | H |
+| Reservar rincón de lectura | H | M | L |
+| Compartir evento en RRSS | L | H | M |
+| Gestionar/subir eventos | - | - | H |
+| Consultar el archivo | L | H | L |
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+ Aquí mostramos el flujo de las tareas que hemos considerado las mas relevantes:
 
 
 ### 2.c IA: Sitemap + Labelling 
