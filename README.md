@@ -144,16 +144,16 @@ Hemos realizado el Mapa de Empatía centrándonos en el usuario interesado en el
 ![Empathy Map](P2/empathymap.png)
   
 
-**propuesta de valor**
+**Propuesta de valor**
 
 A raíz de los hallazgos en el mapa de empatía, nos planteamos cómo transformar una plataforma actualmente desactualizada en una experiencia digital que realmente respire cultura y cercanía. Nos surgen preguntas clave: ¿Y si la web no fuera solo un tablón de anuncios, sino un refugio digital que anticipe la calma del local?. ¿Y si pudiéramos maridar visualmente el sabor de un café artesanal con la recomendación de un libro antes incluso de llegar al establecimiento?
 
 [Nombre proyecto] nace con esa premisa: crear una plataforma web clara, envolvente y accesible donde cualquier usuario —desde el estudiante que busca concentración hasta el diseñador que busca inspiración— pueda descubrir una agenda cultural viva y una carta de productos honestos. Nuestra propuesta de valor consiste en digitalizar el encanto de La Qarmita, transformando un blog estático en una plataforma experiencial. Queremos que el usuario sienta la misma calidez y orden que encuentra en la librería física, facilitando la conexión entre sus ganas de disfrutar un buen café (Sabores) y su interés por la cultura local (Encanto).
 
 Esta digitalización se basa en:
-1.**Conexión Emocional:** Usar un diseño visual y una narrativa (storytelling) que transmita la calidez de la librería-café, algo que el blog actual no hace.
-2.**Claridad y Utilidad funcional:** Facilitar la toma de decisiones mediante una Agenda Cultural clara, una Carta de Sabores e información del local. En esta información se especificará la disponibilidad de servicios (WiFi, zonas de enchufes y política de ruido). Además, el sistema de Reserva de Espacio permitirá al usuario asegurar requisitos específicos (como un enchufe), eliminando la incertidumbre de antes de salir de casa.
-3.**Accesibilidad e Inclusión:** Asegurar que la web sea usable para todos, corrigiendo los fallos técnicos de jerarquía y estructura que detectamos en el análisis anterior.
+1. **Conexión Emocional:** Usar un diseño visual y una narrativa (storytelling) que transmita la calidez de la librería-café, algo que el blog actual no hace.
+2. **Claridad y Utilidad funcional:** Facilitar la toma de decisiones mediante una Agenda Cultural clara, una Carta de Sabores e información del local. En esta información se especificará la disponibilidad de servicios (WiFi, zonas de enchufes y política de ruido). Además, el sistema de Reserva de Espacio permitirá al usuario asegurar requisitos específicos (como un enchufe), eliminando la incertidumbre de antes de salir de casa.
+3. **Accesibilidad e Inclusión:** Asegurar que la web sea usable para todos, corrigiendo los fallos técnicos de jerarquía y estructura que detectamos en el análisis anterior.
 
 
 
@@ -188,9 +188,11 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
  
 
  **Reservar espacio**
+ 
  ![Reservar espacio](P2/ReservarEspacio_TaskFlow.png)
 
   **Consultar evento en Agenda Cultural**
+  
  ![Consultar evento en Agenda Cultural](P2/ConsultarEvento_TaskFlow.png)
 
 
