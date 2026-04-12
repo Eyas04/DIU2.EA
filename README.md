@@ -161,7 +161,7 @@ Por ello, nuestra propuesta de valor se basa en:
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-![Scope_Canvas](P2/Scope_Canvas.pdf)
+![Scope_Canvas](P2/Scope_Canvas.png)
 
 
 
