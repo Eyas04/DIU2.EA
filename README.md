@@ -156,8 +156,9 @@ A raíz de los hallazgos en el mapa de empatía, nos planteamos cómo transforma
 
 Esta digitalización se basa en:
 1.**Conexión Emocional:** Usar un diseño visual y una narrativa (storytelling) que transmita la calidez de la librería-café, algo que el blog actual no hace.
-2.**Claridad de Información:** Facilitar que usuarios como Javier encuentren la agenda cultural o que Laura vea la carta de productos y servicios (WiFi, ambiente) de forma inmediata.
+2.**Claridad y Utilidad funcional:** Facilitar la toma de decisiones mediante una Agenda Cultural clara, una Carta de Sabores e información del local. En esta información se especificará la disponibilidad de servicios (WiFi, zonas de enchufes y política de ruido). Además, el sistema de Reserva de Espacio permitirá al usuario asegurar requisitos específicos (como un enchufe), eliminando la incertidumbre de antes de salir de casa.
 3.**Accesibilidad e Inclusión:** Asegurar que la web sea usable para todos, corrigiendo los fallos técnicos de jerarquía y estructura que detectamos en el análisis anterior.
+
 
 
 ### 2.b ScopeCanvas
@@ -175,11 +176,11 @@ Esta digitalización se basa en:
 En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, dando las prioridades de alta(H), media(M) y baja(L):
 | User Groups | Laura | Javier | Dueño del local |
 | :--- | :---: | :---: | :---: |
-| Consultar horario/localización | H | M | H |
-| Ver estado de calma (WiFi/Ruido) | H | M | M |
+| Consultar horario/localización | H | H | L |
+| Consultar servicios disponibles | H | M | M |
 | Explorar carta de "Sabores"(fotos) | H | H | M |
-| Ver agenda cultural (calendario) | M | H | H |
-| Reservar rincón de lectura | H | M | L |
+| Consultar evento en agenda cultural (calendario) | M | H | H |
+| Reservar espacio | H | M | L |
 | Compartir evento en RRSS | L | H | M |
 | Gestionar/subir eventos | - | - | H |
 | Consultar el archivo | L | H | L |
@@ -188,6 +189,10 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 >>> Prioridades para Javier: Como usuario interesado en la identidad visual y la cultura, su foco principal es la Agenda Cultural y el Archivo histórico (H), buscando una conexión emocional con la marca.
 
  Aquí mostramos el flujo de las tareas (task flows) que hemos considerado las mas relevantes:
+ 
+ **Consultar evento en Agenda Cultural**
+ **Reservar espacio**
+ 
 
 
 ### 2.c IA: Sitemap + Labelling 
