@@ -200,9 +200,17 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+
+| Etiqueta | Info | Icono | 
+| :--- | :---: | ---: | 
+| Consultar horario/localización | H | H | 
+| Consultar servicios disponibles | H | M |
+| Explorar carta de "Sabores"(fotos) | H | H | 
+| Consultar evento en agenda cultural (calendario) | M | H | 
+| Reservar espacio | H | M |
+| Compartir evento en RRSS | L | H | 
+| Gestionar/subir eventos | - | - | 
+| Consultar el archivo | L | H |
 
 
 ### 2.d Wireframes
