@@ -204,29 +204,35 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 
  
 ### PÁGINA: HOME
+| Etiqueta | Info | Icono |
 | :---: | :---: | :---: |
 | Hero Section | Espacio de bienvenida con el lema "Sabores con Encanto" y fotografía representativa del local. | ✨ | 
 | Eventos destacados | Resumen visual de los 3 próximos eventos más importantes de la agenda. | ⭐ |
 | Botón reserva | Acceso directo al formulario de reserva de espacio. | ⚡ | 
 ### PÁGINA: AGENDA
+| Etiqueta | Info | Icono |
 | :---: | :---: | :---: |
 | Calendario/Lista | Visualización de eventos por fechas con etiquetas de categoría (Cine, Libros, Música) | 🗓️ | 
 | Buscador de eventos | Filtro para encontrar actividades específicas por nombre o temática. | 🔍 |
 | Ficha de evento| Página detalle con descripción,fecha... | 📄 | 
 ### PÁGINA: SABORES
+| Etiqueta | Info | Icono |
 | :---: | :---: | :---: |
 | Categorías | Clasificación de la carta: Cafés, Tés, Repostería y Opciones Saladas. | 📋 | 
 | Ficha de producto | Foto del producto, precio, ingredientes y alérgenos | 🍰 |
 ### PÁGINA: RESERVA
+| Etiqueta | Info | Icono |
 | :---: | :---: | :---: |
 | Formulario de reserva|Formulario para introducir Nombre,Teléfono (necesarios para la notificación), Fecha y Hora.| 👤 |
 | Selección tipo de espacio| Selección obligatoria entre: Espacio de Trabajo (con enchufe) o Lectura (relax)| 💻 / 🛋️ |
 ### PÁGINA: EL LOCAL
+| Etiqueta | Info | Icono |
 | :---: | :---: | :---: |
 | Mapa Interactivo | Integración de Google Maps con la ubicación exacta en Granada | 📍 |
 | Horarios | Tabla detallada de apertura, cierre y horarios especiales en festivos. | ⏰ |
 | Info de servicios| Detalle de servicios: WiFi alta velocidad, Zonas de carga y Política de ruido | 📶 / 🔌 |
 ### ELEMENTOS GLOBALES
+| Etiqueta | Info | Icono |
 | :---: | :---: | :---: |
 | Navbar| Menú superior con: Inicio, Agenda, Sabores, Reserva y El Local | 🧭 |
 | Sobre Nosotros| Historia de la Qarmita | 🤝🏻|
