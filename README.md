@@ -200,7 +200,7 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 
   **Sitemap**
   
- ![Sitemap](P2/sitemap.png) 
+ <img src="P2/sitemap.png" width="300">
 
  **Labelling** 
 #### PÁGINA: HOME
