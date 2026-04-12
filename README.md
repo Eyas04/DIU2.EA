@@ -201,16 +201,31 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 
-| Etiqueta | Info | Icono | 
-| :--- | :---: | ---: | 
-| Consultar horario/localización | H | H | 
-| Consultar servicios disponibles | H | M |
-| Explorar carta de "Sabores"(fotos) | H | H | 
-| Consultar evento en agenda cultural (calendario) | M | H | 
-| Reservar espacio | H | M |
-| Compartir evento en RRSS | L | H | 
-| Gestionar/subir eventos | - | - | 
-| Consultar el archivo | L | H |
+
+| :---: | :---: | :---: | 
+### PÁGINA: HOME
+| Hero Section | Espacio de bienvenida con el lema "Sabores con Encanto" y fotografía representativa del local. | ✨ | 
+| Eventos destacados | Resumen visual de los 3 próximos eventos más importantes de la agenda. | ⭐ |
+| Botón reserva | Acceso directo al formulario de reserva de espacio. | ⚡ | 
+### PÁGINA: AGENDA
+| Calendario/Lista | Visualización de eventos por fechas con etiquetas de categoría (Cine, Libros, Música) | 🗓️ | 
+| Buscador de eventos | Filtro para encontrar actividades específicas por nombre o temática. | 🔍 |
+| Ficha de evento| Página detalle con descripción,fecha... | 📄 | 
+### PÁGINA: SABORES
+| Categorías | Clasificación de la carta: Cafés, Tés, Repostería y Opciones Saladas. | 📋 | 
+| Ficha de producto | Foto del producto, precio, ingredientes y alérgenos | 🍰 |
+### PÁGINA: RESERVA
+| Formulario de reserva|Formulario para introducir Nombre,Teléfono (necesarios para la notificación), Fecha y Hora.| 👤 |
+| Selección tipo de espacio| Selección obligatoria entre: Espacio de Trabajo (con enchufe) o Lectura (relax)| 💻 / 🛋️ |
+### PÁGINA: EL LOCAL
+| Mapa Interactivo | Integración de Google Maps con la ubicación exacta en Granada | 📍 |
+| Horarios | Tabla detallada de apertura, cierre y horarios especiales en festivos. | ⏰ |
+| Info de servicios| Detalle de servicios: WiFi alta velocidad, Zonas de carga y Política de ruido | 📶 / 🔌 |
+### ELEMENTOS GLOBALES
+| Navbar| Menú superior con: Inicio, Agenda, Sabores, Reserva y El Local | 🧭 |
+| Sobre Nosotros| Historia de la Qarmita | 🤝🏻|
+| FAQ | Preguntas frecuentes | ❓|
+| Contacto | Correo y teléfono del local | 📞 |
 
 
 ### 2.d Wireframes
