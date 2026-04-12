@@ -141,11 +141,7 @@ Proceso de evaluación de la página web La Qarmita, donde comprobamos diferente
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 Hemos realizado el Mapa de Empatía centrándonos en el usuario interesado en el concepto de Café-Librería. De este modo, entendemos que su frustración no es solo con una interfaz, sino con la falta de conexión entre la magia del local físico y la frialdad de su plataforma actual. Nuestra propuesta de 'Sabores con Encanto' busca cerrar esa brecha emocional
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Empathy Map](P2/empathymap.png)
   
 
 **propuesta de valor**
@@ -190,9 +186,12 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 
  Aquí mostramos el flujo de las tareas (task flows) que hemos considerado las mas relevantes:
  
- **Consultar evento en Agenda Cultural**
+
  **Reservar espacio**
- 
+ ![Reservar espacio](P2/ReservarEspacio_TaskFlow.png)
+
+  **Consultar evento en Agenda Cultural**
+ ![Consultar evento en Agenda Cultural](P2/ConsultarEvento_TaskFlow.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
