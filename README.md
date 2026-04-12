@@ -148,7 +148,7 @@ Hemos realizado el Mapa de Empatía centrándonos en el usuario interesado en el
 
 A raíz de los hallazgos en el mapa de empatía, nos planteamos cómo transformar una plataforma actualmente desactualizada en una experiencia digital que realmente respire cultura y cercanía. Nos surgen preguntas clave: ¿Y si la web no fuera solo un tablón de anuncios, sino un refugio digital que anticipe la calma del local?. ¿Y si pudiéramos asegurarnos un espacio incluso antes de llegar al local?
 
-[Nombre proyecto] nace con esa premisa: crear una plataforma web cercana, clara, funcional y accesible.
+La Estantería de Sabores nace con esa premisa: crear una plataforma web cercana, clara, funcional y accesible.
 
 Por ello, nuestra propuesta de valor se basa en:
 1. **Conexión Emocional:** Usar un diseño visual y una narrativa (storytelling) que transmita la calidez de la librería-café.
