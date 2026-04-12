@@ -206,16 +206,16 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 ### PÁGINA: HOME
 | Etiqueta | Info | Icono |
 | :--- | :--- | :---: |
-| Hero Section | Espacio de bienvenida con el lema "Sabores con Encanto" y fotografía representativa del local. | ✨ | 
+| Hero Section | Espacio de bienvenida con un lema y fotografía representativa del local. | ✨ | 
 | Eventos destacados | Resumen visual de los 3 próximos eventos más importantes de la agenda. | ⭐ |
 | Botón reserva | Acceso directo al formulario de reserva de espacio. | ⚡ | 
-### PÁGINA: AGENDA
+### PÁGINA: AGENDA CULTURAL
 | Etiqueta | Info | Icono |
 | :--- | :--- | :---: |
 | Calendario/Lista | Visualización de eventos por fechas con etiquetas de categoría (Cine, Libros, Música) | 🗓️ | 
 | Buscador de eventos | Filtro para encontrar actividades específicas por nombre o temática. | 🔍 |
 | Ficha de evento| Página detalle con descripción,fecha... | 📄 | 
-### PÁGINA: SABORES
+### PÁGINA: CARTA DE SABORES
 | Etiqueta | Info | Icono |
 | :--- | :--- | :---: |
 | Categorías | Clasificación de la carta: Cafés, Tés, Repostería y Opciones Saladas. | 📋 | 
@@ -225,12 +225,20 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 | :--- | :--- | :---: |
 | Formulario de reserva|Formulario para introducir Nombre,Teléfono (necesarios para la notificación), Fecha y Hora.| 👤 |
 | Selección tipo de espacio| Selección obligatoria entre: Espacio de Trabajo (con enchufe) o Lectura (relax)| 💻 / 🛋️ |
+| Confirmación de reserva | Feedback visual de 'Reserva enviada' que incluye un resumen de esta| ✅ |
 ### PÁGINA: EL LOCAL
 | Etiqueta | Info | Icono |
 | :--- | :--- | :---: |
 | Mapa Interactivo | Integración de Google Maps con la ubicación exacta en Granada | 📍 |
+| Fotos del local | Galería de imagenes del local | 📸 |
 | Horarios | Tabla detallada de apertura, cierre y horarios especiales en festivos. | ⏰ |
 | Info de servicios| Detalle de servicios: WiFi alta velocidad, Zonas de carga y Política de ruido | 📶 / 🔌 |
+### PÁGINA: FICHA DEL EVENTO
+| Etiqueta | Info | Icono |
+| :--- | :--- | :---: |
+| Imagen y descripción| Fotografía representativa y texto detallado sobre el artista, autor o temática del evento. | 🖼️ |
+| Fecha/hora | Información clara sobre el día y momento del inicio, incluyendo la duración estimada. | 📅 |
+| Botón Compartir| Opción para difundir el evento en Redes Sociales o enviar por WhatsApp a amigos | 🔗 |
 ### ELEMENTOS GLOBALES
 | Etiqueta | Info | Icono |
 | :--- | :--- | :---: |
