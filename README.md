@@ -279,10 +279,12 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
+![Colors](P3/Colors.png)
+![Typography](P3/Typography.png)
+![Icons](P3/Icons.png)
+![Atoms](P3/Atoms.png)
+![Molecules](P3/Molecules.png)
+![Organisms](P3/Organisms.png)
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
