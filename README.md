@@ -274,21 +274,21 @@ Para su desarrollo, se ha utilizado la plantilla base del espacio de la asignatu
 ----
 Las Guidelines de La Estantería de Sabores establecen las reglas y principios visuales que rigen la identidad digital del proyecto, asegurando que la esencia bohemia y acogedora de La Qarmita se mantenga consistente en cada pantalla. Este documento define el uso del sistema cromático *Rustic & Warm* y la arquitectura tipográfica (combinando la elegancia clásica de *Playfair Display* con la legibilidad moderna de *Montserrat*). No se trata solo de una guía estética, sino de un marco normativo que garantiza la accesibilidad, el contraste óptimo y la armonía visual.
 
-<img src="P3/Colors.png" width="300" alt="Colores">
-<img src="P3/Typography.png" width="300" alt="Typography">
-<img src="P3/Icons.png" width="300" alt="Icons">
-<img src="P3/Atoms.png" width="300" alt="Atoms">
-<img src="P3/Molecules.png" width="300" alt="Molecules">
-<img src="P3/Organisms.png" width="300" alt="Organisms">
+<img src="P3/Colors.png" width="400" alt="Colores">
+<img src="P3/Typography.png" width="400" alt="Typography">
+<img src="P3/Icons.png" width="400" alt="Icons">
+<img src="P3/Atoms.png" width="400" alt="Atoms">
+<img src="P3/Molecules.png" width="400" alt="Molecules">
+<img src="P3/Organisms.png" width="400" alt="Organisms">
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-<img src="P3/home.png" width="400" alt="Pantalla Home">
-<img src="P3/agenda.png" width="400" alt="Pantalla Agenda">
-<img src="P3/infoEvento.png" width="400" alt="Pantalla Evento">
-<img src="P3/reserva.png" width="400" alt="Pantalla Reserva">
-<img src="P3/local.png" width="400" alt="Pantalla del Local">
+<img src="P3/home.png" width="500" alt="Pantalla Home">
+<img src="P3/agenda.png" width="500" alt="Pantalla Agenda">
+<img src="P3/infoEvento.png" width="500" alt="Pantalla Evento">
+<img src="P3/reserva.png" width="500" alt="Pantalla Reserva">
+<img src="P3/local.png" width="500" alt="Pantalla del Local">
 
 
 <br>
