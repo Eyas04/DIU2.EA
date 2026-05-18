@@ -284,8 +284,11 @@ Las Guidelines de La Estantería de Sabores establecen las reglas y principios v
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+<img src="P3/home.png" width="300" alt="Pantalla Home">
+<img src="P3/agenda.png" width="300" alt="Pantalla Agenda">
+<img src="P3/infoEvento.png" width="300" alt="Pantalla Evento">
+<img src="P3/reserva.png" width="300" alt="Pantalla Reserva">
+<img src="P3/local.png" width="300" alt="Pantalla del Local">
 
 
 <br>
