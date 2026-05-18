@@ -27,15 +27,12 @@ Grupo: DIU2_EA.  Curso: 2025/26
 
 Nombre del Proyecto: La Estantería de Sabores
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+La estantería de sabores es el rediseño digital de La Qarmita, un espacio donde la cultura y la gastronomía se entrelazan. El proyecto nace para transformar una plataforma desactualizada en un refugio digital que anticipe la calma del local físico.  
 
 Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](P3/logo.png)
+Donde cada página tiene un aroma y cada café cuenta una historia
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Eyas Alsaadi Nwelati     :octocat:     
@@ -51,13 +48,9 @@ Miembros y nombre del equipo:
 
 
 
-
-
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
@@ -121,7 +114,7 @@ La experiencia de Laura representa una situación bastante habitual cuando algui
 En el caso de Laura, el lugar le resulta interesante, pero tiene algunas dudas porque no encuentra fácilmente información o fotos que le ayuden a saber si el ambiente es adecuado para estudiar. El journey refleja este proceso y permite ver algunos puntos donde la información podría mostrarse de forma más clara para facilitar la decisión del usuario.
 
 
-![User journey 1](P1/User_journey_2.png)
+![User journey 2](P1/User_journey_2.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
@@ -264,8 +257,8 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
+![MoodBoard](P3/moodboard.png)
+![Logo](P3/logo.png)
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
