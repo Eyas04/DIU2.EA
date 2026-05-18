@@ -272,12 +272,14 @@ Para su desarrollo, se ha utilizado la plantilla base del espacio de la asignatu
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-<img src="P3/Colors.png" width="200" alt="Colores">
-<img src="P3/Typography.png" width="200" alt="Typography">
-<img src="P3/Icons.png" width="200" alt="Icons">
-![Atoms](P3/Atoms.png)
-![Molecules](P3/Molecules.png)
-![Organisms](P3/Organisms.png)
+Las Guidelines de La Estantería de Sabores establecen las reglas y principios visuales que rigen la identidad digital del proyecto, asegurando que la esencia bohemia y acogedora de La Qarmita se mantenga consistente en cada pantalla. Este documento define el uso del sistema cromático *Rustic & Warm* y la arquitectura tipográfica (combinando la elegancia clásica de *Playfair Display* con la legibilidad moderna de *Montserrat*). No se trata solo de una guía estética, sino de un marco normativo que garantiza la accesibilidad, el contraste óptimo y la armonía visual.
+
+<img src="P3/Colors.png" width="300" alt="Colores">
+<img src="P3/Typography.png" width="300" alt="Typography">
+<img src="P3/Icons.png" width="300" alt="Icons">
+<img src="P3/Atoms.png" width="300" alt="Atoms">
+<img src="P3/Molecules.png" width="300" alt="Molecules">
+<img src="P3/Organisms.png" width="300" alt="Organisms">
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
