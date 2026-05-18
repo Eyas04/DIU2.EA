@@ -31,7 +31,7 @@ Descripción:
 La estantería de sabores es el rediseño digital de La Qarmita, un espacio donde la cultura y la gastronomía se entrelazan. El proyecto nace para transformar una plataforma desactualizada en un refugio digital que anticipe la calma del local físico.  
 
 Logotipo: 
-![Logo](P3/logo.png)
+![Logo](P3/logo.png)[]
 Donde cada página tiene un aroma y cada café cuenta una historia
 
 Miembros y nombre del equipo:
@@ -258,7 +258,7 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 -----
 
 ![MoodBoard](P3/moodboard.png)
-![Logo](P3/logo.png)
+<img src="P3/logo.png" width="200" alt="Logo">
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
