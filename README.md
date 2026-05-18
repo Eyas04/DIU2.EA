@@ -32,13 +32,14 @@ La estantería de sabores es el rediseño digital de La Qarmita, un espacio dond
 
 Logotipo: 
 <img src="P3/logo.png" width="200" alt="Logo">
-Donde cada página tiene un aroma y cada café cuenta una historia
+
+*Donde cada página tiene un aroma y cada café cuenta una historia*
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Eyas Alsaadi Nwelati     :octocat:     
- * :bust_in_silhouette:  Andrea Martínez García     :octocat:
+ * :bust_in_silhouette:  Eyas Alsaadi Nwelati     :octocat:     [Eyas04](URL_del_enlace)
+ * :bust_in_silhouette:  Andrea Martínez García     :octocat: [andreaxmarrtinezz](URL_del_enlace)
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+
 
 ----- 
 
