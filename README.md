@@ -257,25 +257,24 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+El moodboard de La Estantería de Sabores recoge los principales elementos de identidad visual para el rediseño digital de La Qarmita: logotipo, paleta de colores, arquitectura tipográfica, imágenes de inspiración y perfiles de usuario. El logotipo fue generado por la inteligencia artificial al igual que las imagenes del local.
 
+Para su desarrollo, se ha utilizado la plantilla base del espacio de la asignatura en Figma, adaptándola mediante una lógica de diseño atómico para estructurar de forma clara y coherente los cimientos del sistema visual (Foundations). De cara a una futura estrategia en redes sociales, el formato se adaptaría a composiciones verticales o cuadradas, priorizando la estética acogedora del local y el detalle de su agenda cultural.
 ![MoodBoard](P3/moodboard.png)
-<img src="P3/logo.png" width="200" alt="Logo">
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+>>> No hay que hacerla.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-![Colors](P3/Colors.png)
-![Typography](P3/Typography.png)
-![Icons](P3/Icons.png)
+<img src="P3/Colors.png" width="200" alt="Colores">
+<img src="P3/Typography.png" width="200" alt="Typography">
+<img src="P3/Icons.png" width="200" alt="Icons">
 ![Atoms](P3/Atoms.png)
 ![Molecules](P3/Molecules.png)
 ![Organisms](P3/Organisms.png)
