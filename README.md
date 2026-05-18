@@ -31,7 +31,7 @@ Descripción:
 La estantería de sabores es el rediseño digital de La Qarmita, un espacio donde la cultura y la gastronomía se entrelazan. El proyecto nace para transformar una plataforma desactualizada en un refugio digital que anticipe la calma del local físico.  
 
 Logotipo: 
-![Logo](P3/logo.png)[]
+<img src="P3/logo.png" width="200" alt="Logo">
 Donde cada página tiene un aroma y cada café cuenta una historia
 
 Miembros y nombre del equipo:
