@@ -284,11 +284,11 @@ Las Guidelines de La Estantería de Sabores establecen las reglas y principios v
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-<img src="P3/home.png" width="300" alt="Pantalla Home">
-<img src="P3/agenda.png" width="300" alt="Pantalla Agenda">
-<img src="P3/infoEvento.png" width="300" alt="Pantalla Evento">
-<img src="P3/reserva.png" width="300" alt="Pantalla Reserva">
-<img src="P3/local.png" width="300" alt="Pantalla del Local">
+<img src="P3/home.png" width="400" alt="Pantalla Home">
+<img src="P3/agenda.png" width="400" alt="Pantalla Agenda">
+<img src="P3/infoEvento.png" width="400" alt="Pantalla Evento">
+<img src="P3/reserva.png" width="400" alt="Pantalla Reserva">
+<img src="P3/local.png" width="400" alt="Pantalla del Local">
 
 
 <br>
