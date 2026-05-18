@@ -284,9 +284,9 @@ Las Guidelines de La Estantería de Sabores establecen las reglas y principios v
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-Los Mockups representan la fase visual definitiva y estática del proyecto para ordenador (Desktop), donde la estructura del layout se "viste" por completo con el sistema de diseño (Design System) personalizado. Estas maquetas de alta fidelidad muestran con total realismo cómo lucirá la plataforma web de La Estantería de Sabores.
+Los Mockups representan la fase visual definitiva y estática del proyecto para ordenador , donde la estructura del layout se viste por completo con el sistema de diseño (Design System) personalizado. Estas maquetas de alta fidelidad muestran con total realismo cómo lucirá la plataforma web de La Estantería de Sabores.
 
-Al optar por un formato de escritorio, se aprovecha al máximo la amplitud de la pantalla para recrear de manera inmersiva la atmósfera Rustic & Warm de La Qarmita. Mediante el uso de imágenes evocadoras (café artesanal, libros y rincones acogedores), tipografías con carácter editorial y contrastes cromáticos optimizados, los mockups consiguen trasladar el encanto bohemio del local físico al entorno digital. Cada interfaz ha sido diseñada para guiar de forma intuitiva tanto a usuarios que buscan reservar un espacio de estudio en calma, como a aquellos que desean explorar la vibrante agenda cultural de Granada.
+Al optar por un formato de escritorio, se aprovecha al máximo la amplitud de la pantalla para recrear la atmósfera Rustic & Warm de La Qarmita. Mediante el uso de imágenes, tipografías con carácter editorial y contrastes cromáticos optimizados, los mockups consiguen trasladar el encanto bohemio del local físico al entorno digital. Cada interfaz ha sido diseñada para guiar de forma intuitiva tanto a usuarios que buscan reservar un espacio de estudio en calma, como a aquellos que desean explorar la  agenda cultural de Granada.
 <img src="P3/home.png" width="500" alt="Pantalla Home">
 <img src="P3/agenda.png" width="500" alt="Pantalla Agenda">
 <img src="P3/infoEvento.png" width="500" alt="Pantalla Evento">
