@@ -372,7 +372,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+El objetivo principal de este proceso ha sido dar vida a la web de La Estantería de Sabores, pasando de los diseños visuales a una aplicación real y funcional con React y Tailwind CSS. Desde el primer momento nos centramos en que la página fuera súper cómoda de usar. Por ejemplo, siguiendo el consejo del profesor sobre experiencia de usuario, rediseñamos los botones de la pantalla de eventos: ahora el botón de "Reservar" destaca muchísimo más (en color sólido) que el de "Compartir" (que es solo un perfil), guiando al cliente de forma natural hacia la reserva, que es lo que le interesa al negocio.
+A lo largo del desarrollo nos topamos con varios retos visuales, como ajustar el tamaño de las imágenes para que no rompieran el diseño en pantallas grandes ni obligaran a hacer un scroll infinito. Lo solucionamos limitando las alturas y usando estructuras en columnas para que todo encaje de un solo vistazo. Además, añadimos detalles clave para la identidad de la marca, como meter el logotipo oficial en formato circular en la barra de navegación y redondear los bordes de todas las imágenes (rounded-[32px]) para mantener esa estética rústica, suave y uniforme que se ve en los mockups.
+Por último, conectamos todas las secciones mediante el uso de estados en React, logrando que la navegación entre pestañas sea instantánea y fluida. Como broche final, creamos desde cero la pantalla de "Sabores" (de la cual no había mockup previo). Diseñamos un menú interactivo donde el usuario puede alternar entre "Cafés" y "Repostería" con un clic, mostrando los productos en tarjetas súper cuidadas con su precio bien visible y etiquetas especiales (como "Vegana" o "Sin Gluten"), dejando el proyecto con un acabado redondo y totalmente listo.
 
 
 ### 5.b Documentación con Storybook
