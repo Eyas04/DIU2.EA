@@ -371,6 +371,9 @@ El objetivo principal de este proceso ha sido dar vida a la web de La Estanterí
 A lo largo del desarrollo nos topamos con varios retos visuales, como ajustar el tamaño de las imágenes para que no rompieran el diseño en pantallas grandes ni obligaran a hacer un scroll infinito. Lo solucionamos limitando las alturas y usando estructuras en columnas para que todo encaje de un solo vistazo. Además, añadimos detalles clave para la identidad de la marca, como meter el logotipo oficial en formato circular en la barra de navegación y redondear los bordes de todas las imágenes (rounded-[32px]) para mantener esa estética rústica, suave y uniforme que se ve en los mockups.
 Por último, conectamos todas las secciones mediante el uso de estados en React, logrando que la navegación entre pestañas sea instantánea y fluida. Como broche final, creamos desde cero la pantalla de "Sabores" (de la cual no había mockup previo). Diseñamos un menú interactivo donde el usuario puede alternar entre "Cafés" y "Repostería" con un clic, mostrando los productos en tarjetas súper cuidadas con su precio bien visible y etiquetas especiales (como "Vegana" o "Sin Gluten"), dejando el proyecto con un acabado redondo y totalmente listo.
 
+La aplicación se ha desplegado con éxito en producción a través de la plataforma Surge.sh, quedando pública y operativa para su evaluación en el siguiente enlace:
+🔗 [Web La Estanteria de Sabores](https://la-estanteria-de-sabores.surge.sh)
+
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
