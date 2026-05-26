@@ -375,11 +375,9 @@ La aplicación se ha desplegado con éxito en producción a través de la plataf
 🔗 [Web La Estanteria de Sabores](https://la-estanteria-de-sabores.surge.sh)
 
 
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
+### 5.b Código
 ----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+![Código HTML de la página web](P5)
 
 
 <br>
