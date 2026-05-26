@@ -305,10 +305,16 @@ Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P1 | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| P2  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| P3  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| P4  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P5  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P6  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P7  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P8  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P9  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| P10  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
