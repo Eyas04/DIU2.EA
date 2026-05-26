@@ -297,9 +297,9 @@ Al optar por un formato de escritorio, se aprovecha al máximo la amplitud de la
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
+El caso B asignado no estaba disponible, asi que se optó por una de las alternativas brindadas del mismo subgrupo. La alternativa es GoikoMes una web de restaurante de hamburguesas. El repositorio del proyecto es: [https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A (La Estanteria de Sabores) y 5 para el Caso B (Anime Ramen)
 
 
 
