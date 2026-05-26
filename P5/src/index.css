@@ -1,0 +1,22 @@
+/* IMPORTS */
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@700&display=swap');
+
+/* PALETA CORPORATIVA  */
+@theme {
+  
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+
+  /* Tu paleta corporativa exacta de La Estantería de Sabores */
+  --color-brand-primary-4: #8B3A3A;   /* Rojo ladrillo */
+  --color-brand-primary-5: #4A1F1F;   /* Rojo oscuro para el hover */
+  
+  --color-brand-neutral-1: #DFD5C1;    /* Crema/beige rústico */
+  --color-brand-neutral-2: #FAF7F0;    /* Blanco roto para las tarjetas */
+  --color-brand-neutral-3: #E7E2DB;    /* Bordes sutiles y Pills */
+  --color-brand-neutral-4: #D1C9BC;    /* Borde del botón inferior */
+  --color-brand-neutral-8: #5A504A;    /* Marrón intermedio para descripciones */
+  --color-brand-neutral-9: #3E332E;    /* Tu marrón espresso oscuro del footer */
+  --color-brand-neutral-10: #261E1A;   /* Marrón casi negro para títulos */
+}
