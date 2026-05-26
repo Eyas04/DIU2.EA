@@ -377,7 +377,7 @@ La aplicación se ha desplegado con éxito en producción a través de la plataf
 
 ### 5.b Código
 ----
-![Código HTML de la página web](P5)
+[Código HTML de la página web](P5)
 
 
 <br>
