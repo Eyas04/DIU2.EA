@@ -20,6 +20,7 @@ Actualizado: 14/01/2026
 Grupo: DIU2_EA.  Curso: 2025/26 
 
 Nombre del Proyecto: La Estantería de Sabores
+Web: [Pincha aqui](https://la-estanteria-de-sabores.surge.sh)
 
 Descripción: 
 La Estantería de sabores es el rediseño digital de La Qarmita, un espacio donde la cultura y la gastronomía se entrelazan. El proyecto nace para transformar una plataforma desactualizada en un refugio digital que anticipe la calma del local físico.  
