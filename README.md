@@ -332,8 +332,10 @@ Se han definido tres tareas críticas que los usuarios deben intentar resolver d
 -Tarea 1: *"Explora la página principal durante un minuto e identifica a qué se dedica el establecimiento, qué servicios ofrece y cómo puedes acceder a la sección principal de contenido."*
 -Tarea 2: 
  - Para el Caso A: *"Imagina que quieres asistir a un taller literario el próximo fin de semana. Encuentra la agenda completa e intenta iniciar el proceso de reserva de tu plaza."*
-- Para el Caso B: *"Navega por la plataforma, localiza cuál es la hamburguesa más votada de la semana actual y descubre qué chef del staff la ha diseñado."*
+ - Para el Caso B: *"Navega por la plataforma, localiza cuál es la hamburguesa más votada de la semana actual y descubre qué chef del staff la ha diseñado."*
+  
 - Tarea 3: *"Busca un producto específico dentro de la carta o menú que cumpla con un requisito dietético o de alérgenos concreto."*
+- 
 **2. Test SUS (System Usability Scale)**
 Al finalizar las interacciones, se administra el cuestionario estandarizado de 10 preguntas. Su propósito es comparar de forma cuantitativa la usabilidad percibida por el usuario, evaluando si la disposición en bloques del Caso A resulta más intuitiva o si el enfoque editorial y oscuro del Caso B_2.jpg] favorece una mejor asimilación del contenido.
 **3. Eye Tracking (Gaze Recorder / GazeMapping)**
