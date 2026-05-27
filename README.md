@@ -326,27 +326,11 @@ Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-Para evaluar la usabilidad de los dos casos propuestos se han planificado tres tipos de pruebas:  
+Para evaluar y contrastar el rendimiento de ambas plataformas se ha diseñado una estrategia basada en tres metodologías complementarias:
 
-**1. A/B Testing**  
-
-Se han definido tres tareas críticas que los usuarios deben intentar resolver de forma secuencial en ambas páginas.
--Tarea 1: *"Explora la página principal durante un minuto e identifica a qué se dedica el establecimiento, qué servicios ofrece y cómo puedes acceder a la sección principal de contenido."*
--Tarea 2: 
- - Para el Caso A: *"Imagina que quieres asistir a un taller literario el próximo fin de semana. Encuentra la agenda completa e intenta iniciar el proceso de reserva de tu plaza."*
- - Para el Caso B: *"Navega por la plataforma, localiza cuál es la hamburguesa más votada de la semana actual y descubre qué chef del staff la ha diseñado."*
-  
--Tarea 3: *"Busca un producto específico dentro de la carta o menú que cumpla con un requisito dietético o de alérgenos concreto."*
-
-**2. Test SUS (System Usability Scale)**
-  
-Al finalizar las interacciones, se administra el cuestionario estandarizado de 10 preguntas. Su propósito es comparar de forma cuantitativa la usabilidad percibida por el usuario, evaluando si la disposición en bloques del Caso A resulta más intuitiva o si el enfoque editorial y oscuro del Caso B_2.jpg] favorece una mejor asimilación del contenido.  
-
-**3. Eye Tracking (Gaze Recorder / GazeMapping)**  
-
-Prueba biométrica aplicada sobre las pantallas principales de los proyectos que consta de dos fases:
-- Exploración libre (20 segundos): El usuario observa la interfaz sin indicaciones para analizar qué elementos capturan su atención de manera orgánica (atención involuntaria).
-- Tareas dirigidas: Búsqueda visual de elementos críticos (como el botón de acción principal o los datos de los creadores_2.jpg]). Se extraerán los mapas de calor (Heatmaps) y las rutas de mirada (Scanpaths) para verificar la jerarquía visual de cada propuesta.
+1. **A/B Testing**: Se diseñarán tareas equivalentes para medir de forma empírica la facilidad para navegar por la página, la tasa de éxito de los usuarios al interactuar con la interfaz y la satisfacción general junto con sus comentarios cualitativos.
+2. **Test SUS (System Usability Scale)**: Cuestionario estándar de 10 preguntas al finalizar la sesión para comparar de forma cuantitativa la usabilidad percibida entre la estructura cálida/bloques (Caso A) y la estructura editorial/minimalista (Caso B).
+3. **Eye Tracking (Gaze Recorder)**: Prueba de exploración libre (20 segundos) seguida de tareas dirigidas para obtener mapas de calor (Heatmaps) y analizar de forma biométrica cómo interactúan visualmente con el entorno propuesto por cada grupo.
 
 
 
@@ -363,8 +347,33 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+Tras cruzar los datos de las métricas de eficiencia, tiempo y éxito, los resultados agregados globales de las sesiones experimentales se desglosan de la siguiente manera:
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+#### Test A – La Estantería de Sabores (Nuestra propuesta)
+**Páginas analizadas:** Landing Page Principal y Sección de Agenda/Sabores.
+**Tareas asignadas:**
+*   Localizar e identificar cómo iniciar el proceso de reserva de un espacio o mesa.
+*   Explorar el menú interactivo para conocer las recomendaciones de tartas y cafés especiales.
+*   Navegar por la agenda para buscar un evento o taller cultural específico.
+*   Identificar de forma rápida los elementos de contacto y redes sociales en el pie de página.
+
+**Feedback recogido:**
+*   **Opinión general media:** 4.7 / 7
+*   **Usabilidad:** Facilidad notable para identificar la jerarquía visual de los bloques interactivos y la sección de productos. Sin embargo, usuarios con menor experiencia digital (P5) dudaron puntualmente ante la navegación en dispositivos móviles debido al tamaño de algunos elementos secundarios.
+*   **Estética:** Valoración estética alta gracias al uso de una paleta cromática cálida que transmite cercanía, generando una estructura limpia que invita a la navegación prolongada.
+
+#### Test B – GoikoMes (Propuesta Alternativa)
+**Páginas analizadas:** Landing Page Principal y Sistema de Votación ("Pide y Vota").
+**Tareas asignadas (Basadas en su Visión):**
+*   Explorar la landing principal para identificar la burger líder actual de la semana.
+*   Localizar la sección de ingredientes y descubrir qué chef del staff ha diseñado la propuesta.
+*   Interactuar con los botones de acción para simular el proceso de votación ("¡Que gane la mejor!").
+*   Encontrar las opiniones, reseñas de la comunidad gourmet y accesos a redes sociales.
+
+**Feedback recogido:**
+*   **Opinión general media:** 4.5 / 7
+*   **Usabilidad:** Alta eficiencia visual gracias al gran impacto de la fotografía del producto principal que guía el ojo del usuario de inmediato. Como contrapartida, los perfiles más expertos (P7) demandaron un mayor contraste en los textos secundarios grisáceos sobre el fondo negro para evitar la fatiga visual.
+*   **Diseño:** Valorado de forma unánime como "profesional, potente y muy moderno", aunque usuarios de mayor edad percibieron una tipografía excesivamente delgada en los bloques de texto informativos inferiores.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
