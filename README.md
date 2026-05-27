@@ -297,31 +297,39 @@ Al optar por un formato de escritorio, se aprovecha al máximo la amplitud de la
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
-El caso B asignado no estaba disponible, asi que se optó por una de las alternativas brindadas del mismo subgrupo. La alternativa es GoikoMes una web de restaurante de hamburguesas. El repositorio del proyecto es: [https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+El Caso B que se nos ha asignado (tras sustituir la propuesta inicial no disponible) es **"GoikoMes"**, una plataforma web interactiva basada en un sistema de votación y cocreación gastronómica en colaboración con la cadena Goiko. Su concepto principal busca alejarse por completo de las webs de comida a domicilio tradicionales y estáticas, apostando por hacer partícipe directo a la comunidad gourmet.  
 
-Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A (La Estanteria de Sabores) y 5 para el Caso B (Anime Ramen)
+Para diferenciarse de su competencia, GoikoMes toma la iniciativa de gamificar la experiencia culinaria: cada mes, los clientes pueden explorar y votar su hamburguesa favorita entre 3 propuestas nuevas creadas por el propio staff y chefs de la marca (como "La Infernal", la burger líder actual). La opción ganadora se mantiene en la carta durante todo el mes siguiente, incentivando la fidelización y el retorno recurrente de los usuarios a la web.  
+
+Por último, cabe destacar que su principal propuesta de valor a nivel de diseño es la transparencia y el reconocimiento. Desarrollan un sistema web de estética oscura y muy potente visualmente que otorga todo el protagonismo tanto al producto real como a sus creadores, facilitando la validación de la comunidad a través de reseñas detalladas y un desglose nítido de los ingredientes para garantizar una navegación intuitiva y de alto impacto.
+El repositorio del proyecto es: [Web Goiko Mes](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+
+Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A (La Estanteria de Sabores) y 5 para el Caso B (GoikoMes)
 
 
+| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
+| :--- | :---: | :--- | :---: | :--- | :---: | :---: |
+| P1 | M / 21 | Estudiante | Alta | Introvertido | Web | A |
+| P2 | H / 22 | Estudiante | Alta | Tímido | Web | A |
+| P3 | M / 21 | Estudiante | Media | Emocional | Web | A |
+| P4 | M / 26 | Diseñadora | Alta | Racional | Web | A |
+| P5 | H / 54 | Limpiadora | Baja | Extrovertido | Móvil | A |
+| P6 | M / 24 | Enfermera | Media | Racional | Web | B |
+| P7 | H / 29 | Programador | Alta | Introvertido | Web | B |
+| P8 | M / 18 | Estudiante | Media | Tímida | Web | B |
+| P9 | H / 31 | Comercial | Media | Extrovertido | Móvil | B |
+| P10 | M / 23 | Periodista | Alta | Emocional | Web | B |
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| P1 | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| P2  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| P3  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| P4  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-| P5  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-| P6  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-| P7  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-| P8  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-| P9  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-| P10  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+El plan de pruebas se ha diseñado bajo un enfoque metodológico mixto (cualitativo y cuantitativo) mediante un estudio entre-sujetos. Consiste en la asignación de una serie de tareas críticas de negocio (duración estimada de 5-10 minutos por usuario) para evaluar la eficacia de la interfaz:
+Tarea 1: Localizar el menú de navegación y encontrar el horario de apertura del local.
+Tarea 2: Simular el proceso completo de votación o configuración de una hamburguesa.
+Tarea 3: Buscar un producto específico en la sección principal y comprobar sus ingredientes y creador.
+Para registrar la usabilidad de forma rigurosa, se ha utilizado el Checklist de Usabilidad de la P1, evaluando de forma directa si los usuarios completan la tarea con éxito, si sufren atascos o desorientación y si el sistema ofrece el feedback visual adecuado ante sus acciones. Las pruebas revelaron que la usuaria P5 (Exp.TIC Baja) sufrió frustración en el Caso A por botones pequeños en el móvil; mientras que en el Caso B, las usuarias P6 y P8 se desorientaron por una confusa arquitectura de menús, y P7 (Experto) detectó fatiga visual debido al bajísimo contraste de los textos.
 
 
 
