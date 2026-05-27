@@ -326,7 +326,8 @@ Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-Para evaluar la usabilidad de los dos casos propuestos se han planificado tres tipos de pruebas:
+Para evaluar la usabilidad de los dos casos propuestos se han planificado tres tipos de pruebas:  
+
 **1. A/B Testing**
 Se han definido tres tareas críticas que los usuarios deben intentar resolver de forma secuencial en ambas páginas.
 -Tarea 1: *"Explora la página principal durante un minuto e identifica a qué se dedica el establecimiento, qué servicios ofrece y cómo puedes acceder a la sección principal de contenido."*
