@@ -326,11 +326,20 @@ Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-El plan de pruebas se ha diseñado bajo un enfoque metodológico mixto (cualitativo y cuantitativo) mediante un estudio entre-sujetos. Consiste en la asignación de una serie de tareas críticas de negocio (duración estimada de 5-10 minutos por usuario) para evaluar la eficacia de la interfaz:
-Tarea 1: Localizar el menú de navegación y encontrar el horario de apertura del local.
-Tarea 2: Simular el proceso completo de votación o configuración de una hamburguesa.
-Tarea 3: Buscar un producto específico en la sección principal y comprobar sus ingredientes y creador.
-Para registrar la usabilidad de forma rigurosa, se ha utilizado el Checklist de Usabilidad de la P1, evaluando de forma directa si los usuarios completan la tarea con éxito, si sufren atascos o desorientación y si el sistema ofrece el feedback visual adecuado ante sus acciones. Las pruebas revelaron que la usuaria P5 (Exp.TIC Baja) sufrió frustración en el Caso A por botones pequeños en el móvil; mientras que en el Caso B, las usuarias P6 y P8 se desorientaron por una confusa arquitectura de menús, y P7 (Experto) detectó fatiga visual debido al bajísimo contraste de los textos.
+Para evaluar la usabilidad de los dos casos propuestos se han planificado tres tipos de pruebas:
+**1. A/B Testing**
+Se han definido tres tareas críticas que los usuarios deben intentar resolver de forma secuencial en ambas páginas.
+-Tarea 1: *"Explora la página principal durante un minuto e identifica a qué se dedica el establecimiento, qué servicios ofrece y cómo puedes acceder a la sección principal de contenido."*
+-Tarea 2: 
+ - Para el Caso A: *"Imagina que quieres asistir a un taller literario el próximo fin de semana. Encuentra la agenda completa e intenta iniciar el proceso de reserva de tu plaza."*
+- Para el Caso B: *"Navega por la plataforma, localiza cuál es la hamburguesa más votada de la semana actual y descubre qué chef del staff la ha diseñado."*
+- Tarea 3: *"Busca un producto específico dentro de la carta o menú que cumpla con un requisito dietético o de alérgenos concreto."*
+**2. Test SUS (System Usability Scale)**
+Al finalizar las interacciones, se administra el cuestionario estandarizado de 10 preguntas. Su propósito es comparar de forma cuantitativa la usabilidad percibida por el usuario, evaluando si la disposición en bloques del Caso A resulta más intuitiva o si el enfoque editorial y oscuro del Caso B_2.jpg] favorece una mejor asimilación del contenido.
+**3. Eye Tracking (Gaze Recorder / GazeMapping)**
+Prueba biométrica aplicada sobre las pantallas principales de los proyectos que consta de dos fases:
+Exploración libre (20 segundos): El usuario observa la interfaz sin indicaciones para analizar qué elementos capturan su atención de manera orgánica (atención involuntaria).
+Tareas dirigidas: Búsqueda visual de elementos críticos (como el botón de acción principal o los datos de los creadores_2.jpg]). Se extraerán los mapas de calor (Heatmaps) y las rutas de mirada (Scanpaths) para verificar la jerarquía visual de cada propuesta.
 
 
 
