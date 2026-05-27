@@ -473,15 +473,14 @@ Como recomendaciones de mejora, se propone:
 En conjunto, el análisis mediante Eye Tracking muestra que el diseño de GoikoMes tiene un impacto visual fuerte y consigue dirigir la mirada hacia el producto principal, aunque podría mejorar la visibilidad de algunos elementos secundarios y de navegación.
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Se ha elaborado un informe de usabilidad del **Caso B: GoikoMes**, correspondiente a la propuesta asignada para la evaluación cruzada.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+El informe recoge los principales resultados obtenidos durante la práctica: reclutamiento de usuarios, tareas realizadas, cuestionario SUS, A/B Testing, Eye Tracking y primeras recomendaciones de mejora. El objetivo no es rehacer el proyecto evaluado, sino detectar sus puntos fuertes y sus posibles debilidades desde el punto de vista de la experiencia de usuario.
 
+El archivo completo del informe se encuentra en:
 
+[Usability Report - GoikoMes](P4/P4_UsabReport_GoikoMes.md)
 
 <br>
 
