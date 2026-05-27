@@ -108,35 +108,3 @@ El hallazgo principal es que GoikoMes tiene mucha fuerza visual en el producto, 
 
 ## 5. Auditoría de accesibilidad
 
-Esta parte queda pendiente de completar con los resultados concretos de Lighthouse o WAVE.
-
-A falta de la puntuación exacta, durante la revisión visual se han identificado algunos puntos que conviene comprobar:
-
-| Categoría | Posible problema | Impacto | Recomendación |
-|---|---|---|---|
-| Perceptible | Textos grisáceos sobre fondo negro | Puede dificultar la lectura en usuarios con baja visión o fatiga visual | Aumentar el contraste de los textos secundarios |
-| Operable | Menú superior poco destacado | Puede pasar desapercibido durante la navegación | Aumentar tamaño, peso visual o contraste del menú |
-| Comprensible | Algunas acciones podrían reforzarse visualmente | El usuario puede centrarse en la imagen y no detectar tan rápido la acción principal | Destacar más los botones de votar o pedir |
-| Robusto | Pendiente de revisar con herramienta automática | Puede afectar a lectores de pantalla si hay problemas de estructura HTML | Revisar con Lighthouse/WAVE y corregir errores detectados |
-
-Cuando se realice la prueba automática, se añadirá aquí la puntuación obtenida y los errores concretos detectados.
-
----
-
-## 6. Conclusiones y recomendaciones
-
-GoikoMes es una propuesta bastante sólida visualmente. Su mayor fortaleza está en la presentación del producto: la hamburguesa protagonista se identifica rápido y genera impacto desde el primer momento.
-
-La puntuación SUS confirma que la web es usable y aceptada por los usuarios. Además, los mapas de calor apoyan esta conclusión, ya que la atención se dirige a los elementos más importantes de la landing.
-
-Aun así, se recomiendan las siguientes mejoras:
-
-| Prioridad | Hallazgo | Recomendación |
-|---|---|---|
-| Alta | Algunos textos secundarios tienen poco contraste sobre fondo oscuro | Aumentar contraste y grosor tipográfico para mejorar la lectura |
-| Media | El menú superior recibe poca atención en los mapas de calor | Hacerlo algo más visible mediante tamaño, contraste o separación |
-| Media | Los botones de acción no siempre concentran la mirada | Reforzar visualmente los CTA principales |
-| Baja | Las reseñas aparecen, pero no siempre son revisadas por todos los usuarios | Darles más separación o un título más llamativo |
-| Baja | La landing puede resultar algo densa en la zona inferior | Mejorar la separación entre bloques para facilitar el escaneo visual |
-
-En conclusión, GoikoMes funciona bien como experiencia visual y de marca. La interfaz es atractiva, moderna y comprensible, pero podría mejorar en accesibilidad visual y en la visibilidad de algunos elementos secundarios.
