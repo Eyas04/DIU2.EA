@@ -297,12 +297,13 @@ Al optar por un formato de escritorio, se aprovecha al máximo la amplitud de la
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
-El Caso B que se nos ha asignado (tras sustituir la propuesta inicial no disponible) es **"GoikoMes"**, una plataforma web interactiva basada en un sistema de votación y cocreación gastronómica en colaboración con la cadena Goiko. Su concepto principal busca alejarse por completo de las webs de comida a domicilio tradicionales y estáticas, apostando por hacer partícipe directo a la comunidad gourmet.  
+El Caso B que se nos ha asignado (tras sustituir la propuesta inicial no disponible) es **GoikoMes**, una plataforma web interactiva basada en un sistema de votación y cocreación gastronómica en colaboración con la cadena Goiko. Su concepto principal busca alejarse por completo de las webs de comida a domicilio tradicionales y estáticas, apostando por hacer partícipe directo a la comunidad gourmet.  
 
 Para diferenciarse de su competencia, GoikoMes toma la iniciativa de gamificar la experiencia culinaria: cada mes, los clientes pueden explorar y votar su hamburguesa favorita entre 3 propuestas nuevas creadas por el propio staff y chefs de la marca (como "La Infernal", la burger líder actual). La opción ganadora se mantiene en la carta durante todo el mes siguiente, incentivando la fidelización y el retorno recurrente de los usuarios a la web.  
 
-Por último, cabe destacar que su principal propuesta de valor a nivel de diseño es la transparencia y el reconocimiento. Desarrollan un sistema web de estética oscura y muy potente visualmente que otorga todo el protagonismo tanto al producto real como a sus creadores, facilitando la validación de la comunidad a través de reseñas detalladas y un desglose nítido de los ingredientes para garantizar una navegación intuitiva y de alto impacto.
-El repositorio del proyecto es: [Web Goiko Mes](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+Por último, cabe destacar que su principal propuesta de valor a nivel de diseño es la transparencia y el reconocimiento. Desarrollan un sistema web de estética oscura y muy potente visualmente que otorga todo el protagonismo tanto al producto real como a sus creadores, facilitando la validación de la comunidad a través de reseñas detalladas y un desglose nítido de los ingredientes para garantizar una navegación intuitiva y de alto impacto.  
+
+El **repositorio** del proyecto es: [Web Goiko Mes](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
 
 Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A (La Estanteria de Sabores) y 5 para el Caso B (GoikoMes)
 
