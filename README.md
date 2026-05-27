@@ -402,18 +402,75 @@ Tras cruzar los datos de las métricas de eficiencia, tiempo y éxito, los resul
 *   **Usabilidad:** Alta eficiencia visual gracias al gran impacto de la fotografía del producto principal que guía el ojo del usuario de inmediato. Como contrapartida, los perfiles más expertos (P7) demandaron un mayor contraste en los textos secundarios grisáceos sobre el fondo negro para evitar la fatiga visual.
 *   **Diseño:** Valorado de forma unánime como "profesional, potente y muy moderno", aunque usuarios de mayor edad percibieron una tipografía excesivamente delgada en los bloques de texto informativos inferiores.
 
-### 4.e Aplicación del método Eye Tracking 
+### 4.e Aplicación del método Eye Tracking
 ![Método UX](img/eye-tracking.png)
-----
+-----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para el análisis de Eye Tracking se ha utilizado la herramienta **GazeRecorder**, aplicada sobre el **Caso B: GoikoMes**. Aunque la evaluación general de la práctica compara el Caso A y el Caso B mediante A/B Testing y cuestionario SUS, el seguimiento ocular se ha centrado únicamente en el Caso B, siguiendo la indicación del repositorio base y utilizándolo como apoyo para el Usability Report.
 
+El experimento se realizó sobre una captura completa de la landing page de GoikoMes. Esta decisión se tomó porque el sitio funciona como una página única, donde las opciones del menú superior —Inicio, Pide y Vota, Salón de la Fama y Creadores— desplazan al usuario a distintas secciones internas de la misma página. Por tanto, se consideró más adecuado analizar una captura general de la interfaz completa en lugar de dividir artificialmente el sitio en varias páginas.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Por limitaciones técnicas y temporales, el Eye Tracking se aplicó a una muestra reducida de **3 participantes del Caso B**. Esta reducción se justifica siguiendo el protocolo de adaptación del guion actualizado, que permite priorizar el seguimiento ocular en un mínimo de 3 usuarios clave cuando no sea posible aplicarlo a toda la muestra.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Antes de comenzar la prueba, cada participante realizó la calibración de la webcam mediante GazeRecorder. Posteriormente, se le pidió que observara la página y completara una serie de tareas básicas relacionadas con la comprensión de la interfaz:
 
+- Identificar la hamburguesa líder actual.
+- Localizar la zona de votación.
+- Revisar los ingredientes principales de la propuesta.
+- Identificar al creador de la hamburguesa.
+- Localizar opiniones o reseñas de la comunidad.
+
+#### Evidencias del experimento
+
+Captura original utilizada para el experimento:
+
+![Captura original GoikoMes](img/goikomes_captura_original.png)
+
+Mapas de calor obtenidos:
+
+![Mapa de calor P6](img/goikomes_heatmap_P6.png)
+
+![Mapa de calor P7](img/goikomes_heatmap_P7.png)
+
+![Mapa de calor P8](img/goikomes_heatmap_P8.png)
+
+#### Resultados observados
+
+| Participante | Zonas con mayor atención | Zonas con menor atención | Observación principal |
+|---|---|---|---|
+| P6 | Botón principal, imagen de la hamburguesa, título de la burger líder, ingredientes y bloque del creador | Menú superior, footer y textos legales | La atención se concentra en los elementos centrales de la propuesta, especialmente en el producto y en la información principal de la burger. |
+| P7 | Título principal, imagen de la hamburguesa, botón de pedido/votación, botón “Pedir ahora” y reseñas inferiores | Menú superior y parte del texto descriptivo | El usuario identifica con rapidez los elementos interactivos, aunque algunas zonas informativas secundarias reciben menos atención. |
+| P8 | Imagen principal de la hamburguesa, título de la burger líder, ingredientes y sección de reseñas | Botón inicial, menú superior y bloque del creador | La mirada se reparte entre el producto visual, la información de ingredientes y la validación social mediante reseñas. |
+
+#### Análisis de los mapas de calor
+
+Los mapas de calor muestran que la interfaz de GoikoMes consigue atraer la atención de los usuarios hacia los elementos visuales más importantes. En los tres casos, la imagen de la hamburguesa aparece como una de las zonas más observadas, lo que confirma que el recurso visual principal cumple correctamente su función de captar la mirada del usuario.
+
+También se observa una atención considerable sobre el título principal y sobre el bloque central donde aparece la hamburguesa líder actual, “La Infernal”. Esto indica que la jerarquía visual de la landing funciona correctamente, ya que los usuarios tienden a recorrer primero las zonas más relevantes para entender la propuesta de la página.
+
+En cuanto a la interacción, algunos mapas muestran fijaciones claras sobre los botones de acción, especialmente el botón inicial y el botón “Pedir ahora”. Esto sugiere que las llamadas a la acción son visibles, aunque no siempre concentran la atención de todos los participantes por igual. En algunos casos, la imagen del producto y los textos principales tienen más peso visual que los elementos accionables.
+
+La sección de ingredientes también recibe atención en varios participantes, especialmente en la parte inferior izquierda de la captura. Esto es positivo, ya que indica que los usuarios no se quedan únicamente en la imagen principal, sino que también consultan información concreta sobre la composición de la hamburguesa.
+
+Por otro lado, el menú superior apenas recibe atención en los tres mapas de calor. Esto puede interpretarse de dos formas: por un lado, la navegación no resulta imprescindible al tratarse de una landing de página única; por otro, puede indicar que el menú queda demasiado discreto visualmente frente al resto de elementos de la interfaz.
+
+Las reseñas de la comunidad reciben atención en algunos participantes, especialmente en la zona inferior, aunque de manera menos constante que la imagen principal o la sección de ingredientes. Esto sugiere que la validación social está presente, pero podría reforzarse visualmente si se quiere que tenga más protagonismo dentro de la experiencia.
+
+#### Conclusiones del Eye Tracking
+
+A partir de los resultados obtenidos, se puede concluir que GoikoMes presenta una jerarquía visual efectiva en sus elementos principales. La imagen de la hamburguesa, el título principal y el bloque de la burger líder concentran gran parte de la atención, lo que facilita que el usuario comprenda rápidamente el objetivo de la página.
+
+Sin embargo, se detectan algunas oportunidades de mejora. El menú superior y ciertos textos secundarios pasan bastante desapercibidos, probablemente por su tamaño reducido y por el fuerte contraste visual que generan las imágenes y los títulos principales. Además, aunque los botones de acción son visibles, podrían reforzarse para asegurar que todos los usuarios identifiquen claramente la acción principal de votar o pedir.
+
+Como recomendaciones de mejora, se propone:
+
+- Aumentar ligeramente el tamaño o contraste del menú superior.
+- Reforzar visualmente los botones de acción principales.
+- Mejorar la separación entre bloques para facilitar el escaneo visual.
+- Dar algo más de protagonismo a las reseñas y elementos de validación social.
+- Revisar el contraste de algunos textos secundarios sobre el fondo oscuro para reducir la fatiga visual.
+
+En conjunto, el análisis mediante Eye Tracking muestra que el diseño de GoikoMes tiene un impacto visual fuerte y consigue dirigir la mirada hacia el producto principal, aunque podría mejorar la visibilidad de algunos elementos secundarios y de navegación.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
