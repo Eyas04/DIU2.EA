@@ -303,7 +303,15 @@ Para diferenciarse de su competencia, GoikoMes toma la iniciativa de gamificar l
 
 Por último, cabe destacar que su principal propuesta de valor a nivel de diseño es la transparencia y el reconocimiento. Desarrollan un sistema web de estética oscura y muy potente visualmente que otorga todo el protagonismo tanto al producto real como a sus creadores, facilitando la validación de la comunidad a través de reseñas detalladas y un desglose nítido de los ingredientes para garantizar una navegación intuitiva y de alto impacto.  
 
-El **repositorio** del proyecto es: [Web Goiko Mes](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy)
+El **repositorio** del proyecto es: [Web Goiko Mes](https://github.com/Practicas-DIU3-RESCUE/UX_CaseStudy).  
+
+Para la evaluación cruzada del Caso B se han utilizado los siguientes recursos:
+
+- Prototipo interactivo en Figma: https://www.figma.com/design/A6rDPMsQQNoGCJOEQcfLrb/Sin-t%C3%ADtulo?node-id=0-1&t=Pm9RMPRkGWGsdZhS-1
+- Sitio web en producción: https://jorge-goikomes.surge.sh
+- Carpeta de producción compilada: `/dist`
+
+Para las pruebas de navegación, A/B Testing y Eye Tracking se ha tomado como referencia principal el sitio web en producción, ya que permite evaluar la interacción real del usuario con la interfaz.
 
 Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A (La Estanteria de Sabores) y 5 para el Caso B (GoikoMes)
 
