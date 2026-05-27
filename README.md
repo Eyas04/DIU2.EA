@@ -341,14 +341,24 @@ Para evaluar la satisfacción subjetiva y la usabilidad percibida, implementamos
 
 Tras recopilar las respuestas de los 10 participantes, los datos se procesaron de forma multivariable mediante la herramienta analítica `sus.tools` (sus.mixality.de). Los resultados obtenidos se desglosan a continuación: 
 
-#### Puntuaciones medias y validación métrica
+## Puntuaciones medias y validación métrica
 * **Caso A – La Estantería de Sabores (Nuestra propuesta):** Obtiene un resultado medio de **86 / 100**, situándose en el percentil **96.56%** de la curva global. De acuerdo con la metodología SUS, esta puntuación clasifica el diseño como **"Excelente"** y le otorga un grado de **Aceptabilidad Total**. Los usuarios percibieron el entorno como predecible, fluido y muy bien integrado.
 * **Caso B – GoikoMes (Propuesta Alternativa):** Obtiene una puntuación media de **75.5 / 100**, alcanzando el percentil **74.38%**. En la escala lingüística, este valor se sitúa sólidamente dentro de la calificación de **"Buena"** (Good) y se cataloga como **Aceptable**. Esto demuestra que la interfaz de los compañeros es perfectamente operativa y resuelve las necesidades de navegación con solvencia, aunque cuenta con pequeños márgenes de optimización en su estructura informativa.
 
-#### Valoración de las dimensiones del test
+## Valoración de las dimensiones del test
 Al analizar las respuestas a las 10 preguntas estandarizadas, se observan matices claros en dos bloques clave:
 1.  **Consistencia e integración (Preguntas 5 y 6):** El Caso A destacó por una regularidad muy alta en sus componentes visuales, mientras que en el Caso B, algunos perfiles intermedios dudaron ligeramente debido a la disposición tipográfica sobre fondos oscuros.
 2.  **Confianza y curva de aprendizaje (Preguntas 7 y 9):** Ambos proyectos generaron una alta sensación de control en los usuarios avanzados. Sin embargo, el Caso A ofreció un flujo de navegación por bloques que facilitó la interacción de los usuarios con menos destreza digital (como los perfiles de mayor edad), mientras que la estética puramente editorial del Caso B requirió un breve periodo de adaptación visual en las secciones inferiores de texto denso.
+
+## Gráficos Estadísticos del Análisis (sus.tools)
+
+A continuación se adjuntan las representaciones visuales del análisis comparativo generadas por la herramienta:
+
+* **Diagrama de Cajas y Rangos de Aceptabilidad (SUS Score):**
+  ![Diagrama de cajas comparativo SUS](SUS_Score.png)
+
+* **Curva de Percentiles Global (Percentile Curve):**
+  ![Curva de percentiles de los Casos A y B](SUS_PercentileCurve.png)
 
 
 
@@ -358,7 +368,7 @@ Al analizar las respuestas a las 10 preguntas estandarizadas, se observan matice
 -----
 Tras cruzar los datos de las métricas de eficiencia, tiempo y éxito, los resultados agregados globales de las sesiones experimentales se desglosan de la siguiente manera:
 
-#### Test A – La Estantería de Sabores (Nuestra propuesta)
+## Test A – La Estantería de Sabores (Nuestra propuesta)
 **Páginas analizadas:** Landing Page Principal y Sección de Agenda/Sabores.
 **Tareas asignadas:**
 *   Localizar e identificar cómo iniciar el proceso de reserva de un espacio o mesa.
@@ -371,7 +381,7 @@ Tras cruzar los datos de las métricas de eficiencia, tiempo y éxito, los resul
 *   **Usabilidad:** Facilidad notable para identificar la jerarquía visual de los bloques interactivos y la sección de productos. Sin embargo, usuarios con menor experiencia digital (P5) dudaron puntualmente ante la navegación en dispositivos móviles debido al tamaño de algunos elementos secundarios.
 *   **Estética:** Valoración estética alta gracias al uso de una paleta cromática cálida que transmite cercanía, generando una estructura limpia que invita a la navegación prolongada.
 
-#### Test B – GoikoMes (Propuesta Alternativa)
+## Test B – GoikoMes (Propuesta Alternativa)
 **Páginas analizadas:** Landing Page Principal y Sistema de Votación ("Pide y Vota").
 **Tareas asignadas (Basadas en su Visión):**
 *   Explorar la landing principal para identificar la burger líder actual de la semana.
