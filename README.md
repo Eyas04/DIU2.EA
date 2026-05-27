@@ -498,6 +498,14 @@ Por último, conectamos todas las secciones mediante el uso de estados en React,
 La aplicación se ha desplegado con éxito en producción a través de la plataforma Surge.sh, quedando pública y operativa para su evaluación en el siguiente enlace:
 🔗 [Web La Estanteria de Sabores](https://la-estanteria-de-sabores.surge.sh)
 
+#### Valoración personal del equipo
+
+La tarea nos ha servido para ver el proyecto desde otra perspectiva. Al evaluar GoikoMes no nos hemos quedado solo en si la página era bonita o no, sino en si realmente se entendía bien, si los usuarios encontraban lo importante y si la interfaz era cómoda de usar.
+
+Nos ha llamado la atención que algunos detalles que parecen pequeños, como el contraste de un texto, el tamaño del menú o la posición de un botón, pueden afectar bastante a la experiencia. Además, el Eye Tracking nos ha ayudado a comprobar qué zonas miraban realmente los usuarios y cuáles pasaban más desapercibidas.
+
+En general, creemos que esta evaluación ha sido útil porque nos ha permitido sacar conclusiones más objetivas y no basarnos solo en impresiones personales. También nos ha ayudado a pensar en posibles mejoras para nuestro propio proyecto.
+
 
 ### 5.b Código
 ----
