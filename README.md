@@ -326,11 +326,11 @@ Para las pruebas se han reclutado 10 usuarios, distribuidos en 5 para el Caso A 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-Para evaluar y contrastar el rendimiento de ambas plataformas se ha diseñado una estrategia basada en tres metodologías complementarias:
+Con el objetivo de realizar una comparativa sólida entre ambas propuestas de diseño, hemos estructurado una metodología de investigación basada en tres enfoques complementarios:
 
-1. **A/B Testing**: Se diseñarán tareas equivalentes para medir de forma empírica la facilidad para navegar por la página, la tasa de éxito de los usuarios al interactuar con la interfaz y la satisfacción general junto con sus comentarios cualitativos.
-2. **Test SUS (System Usability Scale)**: Cuestionario estándar de 10 preguntas al finalizar la sesión para comparar de forma cuantitativa la usabilidad percibida entre la estructura cálida/bloques (Caso A) y la estructura editorial/minimalista (Caso B).
-3. **Eye Tracking (Gaze Recorder)**: Prueba de exploración libre (20 segundos) seguida de tareas dirigidas para obtener mapas de calor (Heatmaps) y analizar de forma biométrica cómo interactúan visualmente con el entorno propuesto por cada grupo.
+*   **Evaluación Comparativa (A/B Testing):** Planteamos una serie de dinámicas paralelas en las dos plataformas para analizar de forma directa la fluidez de la navegación, el porcentaje de usuarios que logran completar los objetivos sin asistencia y las impresiones subjetivas recogidas durante la experiencia.
+*   **Métrica de Usabilidad Subjetiva (Escala SUS):** Al concluir las tareas, los participantes cumplimentan el test estandarizado de 10 ítems. Esto nos permite cuantificar y contrastar la usabilidad percibida, enfrentando el modelo del Caso A (basado en una distribución cálida por bloques) con la apuesta del Caso B (un formato marcadamente editorial y minimalista).
+*   **Análisis Biométrico (Eye Tracking):** Mediante la herramienta Gaze Recorder, monitorizamos la atención visual a través de una fase inicial de reconocimiento libre (de 20 segundos) y otra de exploración guiada. Así obtenemos mapas de calor con los que comprobar cómo responde el usuario ante la jerarquía visual de cada interfaz.
 
 
 
