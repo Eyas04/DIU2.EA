@@ -337,11 +337,20 @@ Con el objetivo de realizar una comparativa sólida entre ambas propuestas de di
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+Para evaluar la satisfacción subjetiva y la usabilidad percibida, implementamos el modelo estandarizado SUS (System Usability Scale) a través del formulario brinadado en Tally.so.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Tras recopilar las respuestas de los 10 participantes, los datos se procesaron de forma multivariable mediante la herramienta analítica `sus.tools` (sus.mixality.de). Los resultados obtenidos se desglosan a continuación: 
+
+#### Puntuaciones medias y validación métrica
+* **Caso A – La Estantería de Sabores (Nuestra propuesta):** Obtiene un resultado medio de **86 / 100**, situándose en el percentil **96.56%** de la curva global. De acuerdo con la metodología SUS, esta puntuación clasifica el diseño como **"Excelente"** y le otorga un grado de **Aceptabilidad Total**. Los usuarios percibieron el entorno como predecible, fluido y muy bien integrado.
+* **Caso B – GoikoMes (Propuesta Alternativa):** Obtiene una puntuación media de **75.5 / 100**, alcanzando el percentil **74.38%**. En la escala lingüística, este valor se sitúa sólidamente dentro de la calificación de **"Buena"** (Good) y se cataloga como **Aceptable**. Esto demuestra que la interfaz de los compañeros es perfectamente operativa y resuelve las necesidades de navegación con solvencia, aunque cuenta con pequeños márgenes de optimización en su estructura informativa.
+
+#### Valoración de las dimensiones del test
+Al analizar las respuestas a las 10 preguntas estandarizadas, se observan matices claros en dos bloques clave:
+1.  **Consistencia e integración (Preguntas 5 y 6):** El Caso A destacó por una regularidad muy alta en sus componentes visuales, mientras que en el Caso B, algunos perfiles intermedios dudaron ligeramente debido a la disposición tipográfica sobre fondos oscuros.
+2.  **Confianza y curva de aprendizaje (Preguntas 7 y 9):** Ambos proyectos generaron una alta sensación de control en los usuarios avanzados. Sin embargo, el Caso A ofreció un flujo de navegación por bloques que facilitó la interacción de los usuarios con menos destreza digital (como los perfiles de mayor edad), mientras que la estética puramente editorial del Caso B requirió un breve periodo de adaptación visual en las secciones inferiores de texto denso.
+
+
 
 
 ### 4.d A/B Testing
