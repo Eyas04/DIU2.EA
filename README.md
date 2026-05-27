@@ -424,15 +424,15 @@ Antes de comenzar la prueba, cada participante realizó la calibración de la we
 
 Captura original utilizada para el experimento:
 
-![Captura original GoikoMes](img/goikomes_captura_original.png)
+![Captura original GoikoMes](p4/goikomes_captura_original.png)
 
 Mapas de calor obtenidos:
 
-![Mapa de calor P6](img/goikomes_heatmap_P6.png)
+![Mapa de calor P6](p4/goikomes_heatmap_P6.png)
 
-![Mapa de calor P7](img/goikomes_heatmap_P7.png)
+![Mapa de calor P7](p4/goikomes_heatmap_P7.png)
 
-![Mapa de calor P8](img/goikomes_heatmap_P8.png)
+![Mapa de calor P8](p4/goikomes_heatmap_P8.png)
 
 #### Resultados observados
 
