@@ -108,3 +108,47 @@ El hallazgo principal es que GoikoMes tiene mucha fuerza visual en el producto, 
 
 ## 5. Auditoría de accesibilidad
 
+Para la auditoría de accesibilidad del Caso B se ha utilizado la herramienta **WAVE**, ejecutada sobre el sitio web en producción de GoikoMes. La revisión se ha centrado en detectar problemas automáticos relacionados con contraste, estructura HTML, navegación y compatibilidad con tecnologías de apoyo.
+
+El análisis automático obtuvo una puntuación aproximada de **6.9 / 10**. WAVE detectó los siguientes resultados principales:
+
+- **1 error**.
+- **5 errores de contraste**.
+- **5 alertas**.
+- **3 características positivas**.
+- **10 elementos estructurales**.
+- **15 elementos ARIA**.
+
+Los resultados muestran que la página tiene una estructura general reconocible, con `header`, `nav`, `main` y `footer`, además de varios encabezados correctamente identificados. Sin embargo, también aparecen algunos problemas que conviene corregir para mejorar la accesibilidad.
+
+| Categoría | Problema detectado | Impacto | Recomendación |
+|---|---|---|---|
+| Perceptible | WAVE detecta **5 errores de contraste bajo**. | Algunos textos pueden resultar difíciles de leer, especialmente sobre el fondo oscuro o en usuarios con baja visión/fatiga visual. | Aumentar el contraste entre texto y fondo, usando tonos más claros o aumentando el peso de la tipografía. |
+| Comprensible | Se detecta **1 formulario sin etiqueta**. | Los usuarios con lector de pantalla pueden no entender correctamente la función del campo, por ejemplo en el buscador. | Añadir una etiqueta `label` asociada al campo o un `aria-label` descriptivo. |
+| Robusto | Hay **saltos en la jerarquía de encabezados**, pasando de `h2` a `h4`. | Puede dificultar la navegación estructural para usuarios que usan lectores de pantalla. | Reordenar los encabezados respetando una jerarquía lógica: `h1`, `h2`, `h3`, etc. |
+| Operable | Aparece un **enlace interno roto** dentro de la misma página. | Algún elemento del menú puede no llevar correctamente a su sección correspondiente. | Revisar los enlaces con anclas internas y comprobar que todos los `id` existen. |
+| Perceptible | WAVE marca **2 textos muy pequeños**. | Puede dificultar la lectura en pantallas pequeñas o para usuarios con baja agudeza visual. | Aumentar ligeramente el tamaño mínimo de fuente en textos secundarios. |
+
+En general, GoikoMes no presenta una estructura inaccesible, pero sí necesita ajustes en aspectos concretos. Los problemas más importantes están relacionados con el contraste visual y con pequeños detalles de etiquetado y estructura HTML.
+
+
+
+
+## 6. Conclusiones y recomendaciones
+
+La evaluación general del Caso B muestra que **GoikoMes** es una propuesta visualmente potente y bastante usable. Su diseño oscuro, la imagen principal de la hamburguesa y la jerarquía de la burger líder consiguen captar rápidamente la atención del usuario.
+
+El resultado SUS de **75.5 / 100** indica que la interfaz es aceptable y se percibe como buena. Además, los mapas de calor confirman que los usuarios dirigen la mirada hacia los elementos principales: imagen del producto, título de la burger, ingredientes y algunos botones de acción.
+
+Sin embargo, tanto el Eye Tracking como la auditoría con WAVE muestran varios puntos mejorables. Algunos textos secundarios pasan desapercibidos, el menú superior recibe poca atención y existen problemas de contraste que pueden afectar a la lectura.
+
+| Prioridad | Hallazgo | Recomendación de mejora |
+|---|---|---|
+| Alta | WAVE detecta varios errores de contraste bajo. | Revisar los colores de textos secundarios sobre fondo oscuro para cumplir mejor con WCAG. |
+| Alta | Existe un campo de formulario sin etiqueta. | Añadir una etiqueta visible o un `aria-label` claro al buscador. |
+| Media | Los mapas de calor muestran poca atención al menú superior. | Aumentar contraste, tamaño o separación del menú para hacerlo más visible. |
+| Media | Hay saltos en la jerarquía de encabezados. | Corregir la estructura de títulos para mantener un orden lógico. |
+| Baja | Algunas reseñas y textos secundarios reciben poca atención. | Mejorar la separación entre bloques y destacar más la validación social. |
+
+Como conclusión, GoikoMes funciona bien como experiencia visual y de marca. La interfaz transmite una imagen moderna y profesional, pero debería mejorar algunos aspectos de accesibilidad, especialmente contraste, etiquetado de formularios y estructura de encabezados. Con estos ajustes, el diseño sería más claro, más inclusivo y más fácil de usar para distintos perfiles de usuario.
+
