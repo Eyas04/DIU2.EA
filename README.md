@@ -355,10 +355,10 @@ Al analizar las respuestas a las 10 preguntas estandarizadas, se observan matice
 A continuación se adjuntan las representaciones visuales del análisis comparativo generadas por la herramienta:
 
 * **Diagrama de Cajas y Rangos de Aceptabilidad (SUS Score):**
-  ![Diagrama de cajas comparativo SUS](P4/SUS_Score.png)
+  [Diagrama de cajas comparativo SUS](P4/SUS_Score.png)
 
 * **Curva de Percentiles Global (Percentile Curve):**
-  ![Curva de percentiles de los Casos A y B](P4/SUS_PercentileCurve.png)
+  [Curva de percentiles de los Casos A y B](P4/SUS_PercentileCurve.png)
 
 
 
