@@ -518,9 +518,21 @@ La aplicación se ha desplegado con éxito en producción a través de la plataf
 
 ## Conclusiones finales & Valoración de las prácticas
 
+Después de realizar todo el proceso de diseño y evaluación, consideramos que seguir una metodología UX ha sido útil para no quedarnos únicamente en una idea inicial o en una valoración estética de la interfaz. A lo largo de las prácticas hemos pasado por distintas fases: análisis del problema, diseño del prototipo, desarrollo de la propuesta y evaluación con usuarios. Esto nos ha permitido entender mejor que una interfaz no solo tiene que “verse bien”, sino que también debe ser clara, fácil de usar y accesible.
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+La valoración general del proceso es positiva. La comparación entre nuestro Caso A y el Caso B nos ha ayudado a detectar diferencias reales entre dos enfoques de diseño distintos. En el caso de GoikoMes, la propuesta tiene una identidad visual muy fuerte y consigue llamar la atención del usuario desde el primer momento. Sin embargo, las pruebas también han mostrado que algunos elementos secundarios, como ciertos textos, el menú superior o algunas llamadas a la acción, podrían tener más protagonismo o mejor contraste.
 
+No creemos que sea necesario rehacer toda la página desde cero. La base del diseño funciona bien: la idea es clara, el producto principal está bien destacado y la estética encaja con el concepto de marca. Lo que sí sería recomendable es hacer una revisión parcial de la interfaz, centrada sobre todo en mejorar la accesibilidad visual, reforzar algunos botones y ajustar la jerarquía de ciertos elementos.
 
+Entre las mejoras principales destacaríamos:
+
+- revisar el contraste de los textos secundarios sobre fondo oscuro;
+- hacer más visible el menú superior;
+- reforzar visualmente los botones de acción principales;
+- corregir pequeños problemas de accesibilidad detectados con WAVE;
+- mejorar la estructura de encabezados para que sea más coherente;
+- dar algo más de peso a las reseñas y elementos de confianza.
+
+En conclusión, el resultado obtenido es positivo, pero no perfecto. La práctica nos ha servido para comprobar que incluso una interfaz visualmente atractiva puede tener detalles mejorables cuando se analiza con usuarios y herramientas de evaluación. Por eso, más que rehacer el proyecto completo, lo adecuado sería aplicar una iteración de mejora sobre los puntos detectados.
 
 
