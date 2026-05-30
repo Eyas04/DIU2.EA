@@ -150,5 +150,8 @@ Sin embargo, tanto el Eye Tracking como la auditoría con WAVE muestran varios p
 | Media | Hay saltos en la jerarquía de encabezados. | Corregir la estructura de títulos para mantener un orden lógico. |
 | Baja | Algunas reseñas y textos secundarios reciben poca atención. | Mejorar la separación entre bloques y destacar más la validación social. |
 
-Como conclusión, GoikoMes funciona bien como experiencia visual y de marca. La interfaz transmite una imagen moderna y profesional, pero debería mejorar algunos aspectos de accesibilidad, especialmente contraste, etiquetado de formularios y estructura de encabezados. Con estos ajustes, el diseño sería más claro, más inclusivo y más fácil de usar para distintos perfiles de usuario.
+Como decisión final, no consideramos necesario rehacer GoikoMes desde cero. La propuesta funciona bien a nivel general: tiene una identidad visual clara, el producto protagonista se entiende rápido y los usuarios han podido completar las tareas principales sin grandes problemas. Por tanto, la base del diseño es válida.
 
+Lo que sí vemos necesario es realizar una iteración de mejora sobre aspectos concretos. Principalmente habría que revisar el contraste de algunos textos, etiquetar correctamente el buscador, ordenar mejor la jerarquía de encabezados y reforzar visualmente el menú y los botones principales. Son cambios importantes, pero no afectan a la estructura completa del proyecto ni obligan a replantear toda la página.
+
+En conclusión, GoikoMes debería mantenerse como propuesta, pero con ajustes de accesibilidad y jerarquía visual antes de considerarla una versión final. Con estas correcciones, la interfaz sería más clara, más inclusiva y más fácil de usar para distintos tipos de usuarios.
