@@ -518,21 +518,21 @@ La aplicación se ha desplegado con éxito en producción a través de la plataf
 
 ## Conclusiones finales & Valoración de las prácticas
 
-Después de realizar todo el proceso de diseño y evaluación, consideramos que seguir una metodología UX ha sido útil para no quedarnos únicamente en una idea inicial o en una valoración estética de la interfaz. A lo largo de las prácticas hemos pasado por distintas fases: análisis del problema, diseño del prototipo, desarrollo de la propuesta y evaluación con usuarios. Esto nos ha permitido entender mejor que una interfaz no solo tiene que “verse bien”, sino que también debe ser clara, fácil de usar y accesible.
 
-La valoración general del proceso es positiva. La comparación entre nuestro Caso A y el Caso B nos ha ayudado a detectar diferencias reales entre dos enfoques de diseño distintos. En el caso de GoikoMes, la propuesta tiene una identidad visual muy fuerte y consigue llamar la atención del usuario desde el primer momento. Sin embargo, las pruebas también han mostrado que algunos elementos secundarios, como ciertos textos, el menú superior o algunas llamadas a la acción, podrían tener más protagonismo o mejor contraste.
+## Conclusiones finales & Valoración de las prácticas
 
-No creemos que sea necesario rehacer toda la página desde cero. La base del diseño funciona bien: la idea es clara, el producto principal está bien destacado y la estética encaja con el concepto de marca. Lo que sí sería recomendable es hacer una revisión parcial de la interfaz, centrada sobre todo en mejorar la accesibilidad visual, reforzar algunos botones y ajustar la jerarquía de ciertos elementos.
+El desarrollo de esta práctica siguiendo la metodología UX nos ha ayudado a ver el proceso de diseño de una forma diferente. Este proceso ha mejorado notablemente nuestra capacidad para detectar aspectos tanto positivos como negativos de una página web o aplicación. Nos ha enseñado que una página “bonita” no necesariamente tiene un buen diseño, y que muchas veces es más importante que sea intuitiva y usable que simplemente estética.
 
-Entre las mejoras principales destacaríamos:
+Además, nos ha hecho pensar en los distintos perfiles de personas que pueden utilizar una página web: desde usuarios con poca experiencia informática hasta personas con problemas de visión que necesitan más ayuda para detectar los elementos principales de la interfaz. Esto nos ha parecido especialmente importante, porque muchas veces diseñamos pensando en un usuario ideal y no en la variedad real de personas que pueden acceder a un sitio web.
 
-- revisar el contraste de los textos secundarios sobre fondo oscuro;
-- hacer más visible el menú superior;
-- reforzar visualmente los botones de acción principales;
-- corregir pequeños problemas de accesibilidad detectados con WAVE;
-- mejorar la estructura de encabezados para que sea más coherente;
-- dar algo más de peso a las reseñas y elementos de confianza.
+Por otro lado, la práctica nos ha permitido analizar la experiencia completa que puede tener un usuario, incluyendo los distintos estados de ánimo que puede experimentar y las opiniones o prejuicios que puede tener antes de visitar un local. Todo esto ayuda a mejorar la experiencia de usuario de una forma más completa, no solo desde el punto de vista visual, sino también desde la percepción y las expectativas del usuario.
 
-En conclusión, el resultado obtenido es positivo, pero no perfecto. La práctica nos ha servido para comprobar que incluso una interfaz visualmente atractiva puede tener detalles mejorables cuando se analiza con usuarios y herramientas de evaluación. Por eso, más que rehacer el proyecto completo, lo adecuado sería aplicar una iteración de mejora sobre los puntos detectados.
+Incluso a nivel estético, actividades como el moodboard nos han enseñado a considerar una identidad visual concreta para un local. No se trata solo de elegir colores o imágenes, sino de conseguir que el diseño transmita una sensación propia. En nuestro caso, buscábamos una estética asociada a la tranquilidad y al acogimiento, que encajase con el tipo de local que estábamos diseñando.
 
+También destacamos el uso de herramientas para valorar las páginas, ya que nos han permitido no depender únicamente de nuestra propia perspectiva. Nos han resultado útiles para detectar errores visuales y aspectos mejorables que probablemente nos habría costado más encontrar por nuestra cuenta. En este sentido, el Eye Tracking nos ha mostrado que el usuario no siempre mira donde esperamos, y que si queremos dirigir su atención hacia un elemento concreto, debemos trabajarlo bien desde el diseño.
 
+Además, algunas extensiones del navegador usadas en las actividades de teoría nos permitieron acercarnos a la experiencia de personas con problemas visuales. Esto nos ayudó a entender mejor qué elementos pueden dificultar la navegación y qué aspectos habría que mejorar para hacer una interfaz más accesible.
+
+Como propuesta de mejora, nos ha resultado algo complicado aprender a usar Figma para determinadas tareas. Por ello, creemos que sería útil añadir más guías o ejemplos prácticos sobre el uso de esta herramienta, especialmente al inicio de la práctica, para facilitar el desarrollo del proyecto.
+
+En general, la valoración de la práctica es positiva. Nos ha permitido entender mejor el proceso de diseño centrado en el usuario y comprobar que una buena interfaz no depende solo de su apariencia, sino también de su claridad, accesibilidad y facilidad de uso.
